@@ -28,6 +28,9 @@
 ### 투포인터
 [2467 용액: 골드5](https://www.acmicpc.net/problem/2467)
 
+### 비트마스킹
+[15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)
+
 ## ✅ 카카오
 ### 2022 공채
 [k진수에서 소수 개수 구하기: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
