@@ -15,6 +15,8 @@
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
 
+### 완전탐색
+[16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)
 
 ### 구현
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)
