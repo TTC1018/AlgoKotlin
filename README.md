@@ -29,6 +29,7 @@
 
 ### 투포인터
 [2467 용액: 골드5](https://www.acmicpc.net/problem/2467)
+[14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)
 
 ### 비트마스킹
 [15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)

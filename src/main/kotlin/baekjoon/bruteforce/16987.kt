@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.bruteforce
 
 import kotlin.math.max
 
