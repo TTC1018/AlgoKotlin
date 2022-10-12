@@ -28,7 +28,7 @@
 [1406 에디터: 실버2](https://www.acmicpc.net/problem/1406)
 
 ### 투포인터
-[2467 용액: 골드5](https://www.acmicpc.net/problem/2467)
+[2467 용액: 골드5](https://www.acmicpc.net/problem/2467)  
 [14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)
 
 ### 비트마스킹
