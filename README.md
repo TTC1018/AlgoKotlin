@@ -13,6 +13,7 @@
 [4963 섬의 개수:실버2](https://www.acmicpc.net/problem/4963)  
 
 ### 다이나믹 프로그래밍
+[9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
