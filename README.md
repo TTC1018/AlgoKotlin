@@ -26,6 +26,7 @@
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
 
 ### 우선순위 큐
+[13549 숨바꼭질 3: 골드5](https://www.acmicpc.net/problem/13549)  
 [14729 칠무해: 실버5](https://www.acmicpc.net/problem/14729)  
 
 ### 스택
