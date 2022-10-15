@@ -7,6 +7,7 @@
 <img src="https://user-images.githubusercontent.com/39405316/194695477-aab47732-394f-458b-8c72-ad444d094a29.png" width=500>
 
 ### 이분탐색
+[2805 나무 자르기:실버2](https://www.acmicpc.net/problem/2805)  
 [16401 과자 나눠주기:실버2](https://www.acmicpc.net/problem/16401)  
 
 ### 그래프탐색
@@ -39,7 +40,8 @@
 
 ## ✅ 카카오
 ### 2022 공채
-[k진수에서 소수 개수 구하기: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  
+[k진수에서 소수 개수 구하기: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)   
+[주차 요금 계산: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  
 
 ### 2022 인턴십
 [성격유형 검사하기: Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/118666)  
