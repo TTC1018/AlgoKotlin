@@ -6,12 +6,15 @@
 ## ✅ 백준
 <img src="https://user-images.githubusercontent.com/39405316/194695477-aab47732-394f-458b-8c72-ad444d094a29.png" width=500>
 
+### 그리디 알고리즘
+[1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
+
 ### 이분탐색
-[2805 나무 자르기:실버2](https://www.acmicpc.net/problem/2805)  
-[16401 과자 나눠주기:실버2](https://www.acmicpc.net/problem/16401)  
+[2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
+[16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
 
 ### 그래프탐색
-[4963 섬의 개수:실버2](https://www.acmicpc.net/problem/4963)  
+[4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
 
 ### 다이나믹 프로그래밍
 [9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
