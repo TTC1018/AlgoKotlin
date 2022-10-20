@@ -21,6 +21,7 @@
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
+[15990 1, 2, 3 더하기 5: 실버2](https://www.acmicpc.net/problem/15990)
 
 ### 완전탐색
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
