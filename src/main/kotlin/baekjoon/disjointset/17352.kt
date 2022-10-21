@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.disjointset
 
 class `17352` {
 
