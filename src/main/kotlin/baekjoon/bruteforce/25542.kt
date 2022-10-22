@@ -1,9 +1,10 @@
-package baekjoon
+package baekjoon.bruteforce
 
 class `25542` {
 
     private val NON_EXIST = "CALL FRIEND"
     private val alphas = ('A'..'Z').toList()
+    private lateinit var names:MutableList<String>
 
     private fun getCandidates(name: String): List<String> {
         val cands = mutableListOf<String>()
@@ -21,29 +22,28 @@ class `25542` {
         return cands
     }
 
+    private fun checkAnswer(cand:String, L:Int):Boolean{
+        for (name in names) { // 함수로 바꿔보기
+            var count = 0
+            for (i in 0 until L) {
+                if (cand[i] != name[i])
+                    count++
+            }
+
+            if (count > 1)
+                return false
+        }
+        return true
+    }
+
     fun solution() = with(System.`in`.bufferedReader()) {
 
         val (N, L) = readLine().split(" ").map { it.toInt() }
-        val names = MutableList<String>(N) { readLine() }
-        val cands = getCandidates(names.last())
-        names.removeLast()
+        names = MutableList(N) { readLine() }
+        val cands = getCandidates(names.removeLast())
 
         for (cand in cands) {
-            var answerFlag = true
-            for (name in names) {
-                var count = 0
-                for (i in 0 until L) {
-                    if (cand[i] != name[i])
-                        count++
-                }
-
-                if (count > 1) {
-                    answerFlag = false
-                    break
-                }
-            }
-
-            if (answerFlag) {
+            if (checkAnswer(cand, L)){
                 println(cand)
                 return
             }
