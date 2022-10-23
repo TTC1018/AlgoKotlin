@@ -26,6 +26,7 @@
 
 ### 완전탐색
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
+[25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
 
 ### 구현
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
