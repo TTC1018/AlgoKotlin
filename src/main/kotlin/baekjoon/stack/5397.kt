@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.stack
 
 class `5397` {
 
