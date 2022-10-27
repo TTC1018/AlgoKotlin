@@ -16,6 +16,7 @@
 
 ### 그래프탐색
 [1012 유기농 배추: 실버2](https://www.acmicpc.net/problem/1012)  
+[1326 폴짝폴짝: 실버2](https://www.acmicpc.net/problem/1326)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
 
 ### 다이나믹 프로그래밍
