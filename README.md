@@ -30,6 +30,7 @@
 
 ### 구현
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
+[16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
 
 ### 우선순위 큐
 [11000 강의실 배정: 골드5](https://www.acmicpc.net/problem/11000)  
