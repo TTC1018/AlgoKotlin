@@ -47,6 +47,9 @@
 [5397 키로거: 실버2](https://www.acmicpc.net/problem/5397)  
 [10773 제로: 실버4](https://www.acmicpc.net/problem/10773)  
 
+### 집합
+[2776 암기왕: 실버4](https://www.acmicpc.net/problem/2776)  
+
 ### 투포인터
 [2467 용액: 골드5](https://www.acmicpc.net/problem/2467)  
 [14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)
