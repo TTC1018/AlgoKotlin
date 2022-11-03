@@ -23,6 +23,7 @@
 [4485 녹색 옷 입은 애가 젤다지?: 골드4](https://www.acmicpc.net/problem/4485)  
 
 ### 다이나믹 프로그래밍
+[5557 1학년: 골드5](https://www.acmicpc.net/problem/5557)  
 [9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
