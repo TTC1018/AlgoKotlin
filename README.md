@@ -7,6 +7,7 @@
 <img src="https://user-images.githubusercontent.com/39405316/194695477-aab47732-394f-458b-8c72-ad444d094a29.png" width=500>
 
 ### 그리디 알고리즘
+[1541 잃어버린 괄호: 실버2](https://www.acmicpc.net/problem/1541)  
 [1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)
 
