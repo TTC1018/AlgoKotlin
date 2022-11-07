@@ -61,6 +61,9 @@
 ### 분리집합
 [17352 여러분의 다리가 되어 드리겠습니다!: 골드5](https://www.acmicpc.net/problem/17352)
 
+### 분할정복
+[1992 쿼드트리: 실버1](https://www.acmicpc.net/problem/1992)  
+
 ## ✅ 카카오
 ### 2022 공채
 [k진수에서 소수 개수 구하기: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)   
