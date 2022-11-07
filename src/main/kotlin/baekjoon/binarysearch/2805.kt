@@ -13,7 +13,7 @@ class `2805` {
         while (start <= end){
             val mid = (start + end) / 2L
 
-            val cut = T.filter { it > mid }.sumOf { it - mid }
+            val cut = T.sumOf { it - mid }
             if (cut < M){
                 end = mid - 1
             }

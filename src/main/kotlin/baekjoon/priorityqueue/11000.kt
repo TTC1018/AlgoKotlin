@@ -12,7 +12,7 @@ class `11000` {
     ):Comparable<ClassInfo> {
 
         override fun compareTo(other:ClassInfo):Int =
-            this.t - other.t
+            this.t.compareTo(other.t)
 
     }
 
@@ -24,7 +24,7 @@ class `11000` {
             val (s, t) = readLine().split(" ").map { it.toInt() }
             infos.add(ClassInfo(s, t))
         }
-        infos.sortWith(compareBy { it.s })
+        infos.sortWith(compareBy { it.s }) // infos.sortBy { it.s }
 
         var answer = 1
         val room = PriorityQueue<ClassInfo>().apply {
@@ -33,7 +33,6 @@ class `11000` {
 
         for (i in 1 until N){
             val occupied = room.poll()
-
             if (infos[i].s < occupied.t){
                 room.offer(occupied)
                 room.offer(infos[i])

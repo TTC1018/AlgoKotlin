@@ -10,7 +10,7 @@ class `4485` {
         val r: Int
     ) : Comparable<Pos> {
         override fun compareTo(other: Pos): Int {
-            return this.r - other.r
+            return this.r.compareTo(other.r)
         }
     }
 
