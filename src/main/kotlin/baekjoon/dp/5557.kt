@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.dp
 
 class `5557` {
 
