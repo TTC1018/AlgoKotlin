@@ -29,6 +29,7 @@
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
 [15990 1, 2, 3 더하기 5: 실버2](https://www.acmicpc.net/problem/15990)  
+[17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  
 
 ### 완전탐색
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
