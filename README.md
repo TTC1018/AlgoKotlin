@@ -44,6 +44,7 @@
 ### 우선순위 큐
 [1374 강의실: 골드5](https://www.acmicpc.net/problem/1374)  
 [11000 강의실 배정: 골드5](https://www.acmicpc.net/problem/11000)  
+[12851 숨바꼭질 2: 골드4](https://www.acmicpc.net/problem/12851)  
 [13549 숨바꼭질 3: 골드5](https://www.acmicpc.net/problem/13549)  
 [14729 칠무해: 실버5](https://www.acmicpc.net/problem/14729)  
 
