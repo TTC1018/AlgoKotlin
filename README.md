@@ -33,6 +33,7 @@
 [17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  
 
 ### 완전탐색
+[1025 제곱수 찾기: 골드5](https://www.acmicpc.net/problem/1025)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
