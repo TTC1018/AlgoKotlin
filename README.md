@@ -9,7 +9,8 @@
 ### 그리디 알고리즘
 [1541 잃어버린 괄호: 실버2](https://www.acmicpc.net/problem/1541)  
 [1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
-[11501 주식: 실버2](https://www.acmicpc.net/problem/11501)
+[11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
+[15904 UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904)  
 
 ### 이분탐색
 [2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
