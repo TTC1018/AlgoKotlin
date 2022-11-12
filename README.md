@@ -34,6 +34,9 @@
 [15990 1, 2, 3 더하기 5: 실버2](https://www.acmicpc.net/problem/15990)  
 [17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  
 
+### 문자열
+[2870 수학숙제: 실버4](https://www.acmicpc.net/problem/2870)  
+
 ### 완전탐색
 [1025 제곱수 찾기: 골드5](https://www.acmicpc.net/problem/1025)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
