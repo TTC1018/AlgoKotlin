@@ -1,6 +1,4 @@
-package baekjoon.priorityqueue
-
-import java.util.PriorityQueue
+package baekjoon.graph
 
 class `12851` {
 
@@ -12,18 +10,18 @@ class `12851` {
             this.count.compareTo(other.count)
     }
 
-    private val pq = PriorityQueue<Pos>()
+    private val queue = ArrayDeque<Pos>()
 
     fun solution() = with(System.`in`.bufferedReader()) {
 
         val (N, K) = readLine().split(" ").map { it.toInt() }
         val visited = BooleanArray(100000 + 1) { false }
-        pq.add(Pos(N, 0))
+        queue.add(Pos(N, 0))
 
         var answerVal = Int.MAX_VALUE
         var answerCnt = 0
-        while (pq.isNotEmpty()) {
-            val (now, count) = pq.remove()
+        while (queue.isNotEmpty()) {
+            val (now, count) = queue.removeFirst()
             if (now == K) {
                 when {
                     answerVal < count -> break
@@ -38,13 +36,13 @@ class `12851` {
 
             visited[now] = true
             if (now - 1 >= 0 && visited[now - 1].not()) {
-                pq.add(Pos(now - 1, count + 1))
+                queue.add(Pos(now - 1, count + 1))
             }
             if (now + 1 <= 100000 && visited[now + 1].not()) {
-                pq.add(Pos(now + 1, count + 1))
+                queue.add(Pos(now + 1, count + 1))
             }
             if (now * 2 <= 100000 && visited[now * 2].not()) {
-                pq.add(Pos(now * 2, count + 1))
+                queue.add(Pos(now * 2, count + 1))
             }
 
         }
