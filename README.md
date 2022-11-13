@@ -77,6 +77,9 @@
 ### 분할정복
 [1992 쿼드트리: 실버1](https://www.acmicpc.net/problem/1992)  
 
+### 위상정렬
+[1516 게임 개발: 골드3](https://www.acmicpc.net/problem/1516)  
+
 ## ✅ 카카오
 ### 2022 공채
 [k진수에서 소수 개수 구하기: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)   
