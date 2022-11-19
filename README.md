@@ -189,6 +189,9 @@
 
 
 ## ✅ 카카오
+### 2021 인턴십
+[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302?language=kotlin)  
+
 ### 2022 공채
 [k진수에서 소수 개수 구하기: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)   
 [주차 요금 계산: Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  
