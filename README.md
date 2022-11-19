@@ -6,28 +6,44 @@
 ## ✅ 백준
 <img src="https://user-images.githubusercontent.com/39405316/194695477-aab47732-394f-458b-8c72-ad444d094a29.png" width=500>
 
-### 그리디 알고리즘
+<details>
+<summary>그리디 알고리즘</summary>
+<div markdown="1">
+
 [1541 잃어버린 괄호: 실버2](https://www.acmicpc.net/problem/1541)  
 [1946 신입 사원: 실버1](https://www.acmicpc.net/problem/1946)  
 [1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
-[15904 UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904)  
+[15904 UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904)
 
-### 이분탐색
-[2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
-[16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
+</div>
+</details>
 
-### 그래프탐색
+<details>
+<summary>구현</summary>
+<div markdown="1">
+
+[11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
+[16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)
+
+</div>
+</details>
+
+<details>
+<summary>그래프 탐색</summary>
+<div markdown="1">
+
 [1012 유기농 배추: 실버2](https://www.acmicpc.net/problem/1012)  
 [1326 폴짝폴짝: 실버2](https://www.acmicpc.net/problem/1326)  
-[4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
+[4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)
 
-### 최단거리
-[4485 녹색 옷 입은 애가 젤다지?: 골드4](https://www.acmicpc.net/problem/4485)  
-[11404 플로이드: 골드4](https://www.acmicpc.net/problem/11404)  
+</div>
+</details>
 
+<details>
+<summary>다이나믹 프로그래밍</summary>
+<div markdown="1">
 
-### 다이나믹 프로그래밍
 [5557 1학년: 골드5](https://www.acmicpc.net/problem/5557)  
 [9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
@@ -36,51 +52,132 @@
 [15990 1, 2, 3 더하기 5: 실버2](https://www.acmicpc.net/problem/15990)  
 [17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  
 
-### 문자열
+</div>
+</details>
+
+<details>
+<summary>문자열</summary>
+<div markdown="1">
+
 [2870 수학숙제: 실버4](https://www.acmicpc.net/problem/2870)  
 
-### 완전탐색
+</div>
+</details>
+
+<details>
+<summary>비트마스킹</summary>
+<div markdown="1">
+
+[15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)  
+
+</div>
+</details>
+
+<details>
+<summary>분리 집합</summary>
+<div markdown="1">
+
+[1197 최소 스패닝 트리: 골드4](https://www.acmicpc.net/problem/1197)  
+[17352 여러분의 다리가 되어 드리겠습니다!: 골드5](https://www.acmicpc.net/problem/17352)  
+
+</div>
+</details>
+
+<details>
+<summary>분할 정복</summary>
+<div markdown="1">
+
+[1992 쿼드트리: 실버1](https://www.acmicpc.net/problem/1992)  
+
+</div>
+</details>
+
+<details>
+<summary>스택</summary>
+<div markdown="1">
+
+[1406 에디터: 실버2](https://www.acmicpc.net/problem/1406)  
+[5397 키로거: 실버2](https://www.acmicpc.net/problem/5397)  
+[10773 제로: 실버4](https://www.acmicpc.net/problem/10773)  
+
+</div>
+</details>
+
+<details>
+<summary>위상 정렬</summary>
+<div markdown="1">
+
+[1516 게임 개발: 골드3](https://www.acmicpc.net/problem/1516)  
+[2056 작업: 골드4](https://www.acmicpc.net/problem/2056)  
+[14567 선수과목: 골드5](https://www.acmicpc.net/problem/14567)  
+
+</div>
+</details>
+
+<details>
+<summary>완전 탐색</summary>
+<div markdown="1">
+
 [1025 제곱수 찾기: 골드5](https://www.acmicpc.net/problem/1025)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
 
-### 구현
-[11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
-[16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
+</div>
+</details>
 
-### 우선순위 큐
+<details>
+<summary>우선순위 큐</summary>
+<div markdown="1">
+
 [1374 강의실: 골드5](https://www.acmicpc.net/problem/1374)  
 [11000 강의실 배정: 골드5](https://www.acmicpc.net/problem/11000)  
 [12851 숨바꼭질 2: 골드4](https://www.acmicpc.net/problem/12851)  
 [13549 숨바꼭질 3: 골드5](https://www.acmicpc.net/problem/13549)  
 [14729 칠무해: 실버5](https://www.acmicpc.net/problem/14729)  
 
-### 스택
-[1406 에디터: 실버2](https://www.acmicpc.net/problem/1406)  
-[5397 키로거: 실버2](https://www.acmicpc.net/problem/5397)  
-[10773 제로: 실버4](https://www.acmicpc.net/problem/10773)  
+</div>
+</details>
 
-### 집합
+<details>
+<summary>이분 탐색</summary>
+<div markdown="1">
+
+[2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
+[16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
+
+</div>
+</details>
+
+<details>
+<summary>집합</summary>
+<div markdown="1">
+
 [2776 암기왕: 실버4](https://www.acmicpc.net/problem/2776)  
 
-### 투포인터
+</div>
+</details>
+
+<details>
+<summary>최단 거리</summary>
+<div markdown="1">
+
+[4485 녹색 옷 입은 애가 젤다지?: 골드4](https://www.acmicpc.net/problem/4485)  
+[11404 플로이드: 골드4](https://www.acmicpc.net/problem/11404)  
+
+</div>
+</details>
+
+<details>
+<summary>투포인터</summary>
+<div markdown="1">
+
 [2467 용액: 골드5](https://www.acmicpc.net/problem/2467)  
-[14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)
+[14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)  
 
-### 비트마스킹
-[15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)  
+</div>
+</details>
 
-### 분리집합
-[17352 여러분의 다리가 되어 드리겠습니다!: 골드5](https://www.acmicpc.net/problem/17352)
-
-### 분할정복
-[1992 쿼드트리: 실버1](https://www.acmicpc.net/problem/1992)  
-
-### 위상정렬
-[1516 게임 개발: 골드3](https://www.acmicpc.net/problem/1516)  
-[2056 작업: 골드4](https://www.acmicpc.net/problem/2056)  
-[14567 선수과목: 골드5](https://www.acmicpc.net/problem/14567)  
 
 ## ✅ 카카오
 ### 2022 공채
