@@ -93,6 +93,15 @@
 </details>
 
 <details>
+<summary>수학</summary>
+<div markdown="1">
+
+[1188 음식평론가: 골드5](https://www.acmicpc.net/problem/1188)  
+
+</div>
+</details>
+
+<details>
 <summary>스택</summary>
 <div markdown="1">
 
