@@ -45,6 +45,7 @@
 <summary>다이나믹 프로그래밍</summary>
 <div markdown="1">
 
+[1106 호텔: 골드5](https://www.acmicpc.net/problem/1106)  
 [5557 1학년: 골드5](https://www.acmicpc.net/problem/5557)  
 [9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
