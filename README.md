@@ -182,6 +182,7 @@
 <div markdown="1">
 
 [2467 용액: 골드5](https://www.acmicpc.net/problem/2467)  
+[2470 두 용액: 골드5](https://www.acmicpc.net/problem/2470)  
 [14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)  
 
 </div>
