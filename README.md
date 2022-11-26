@@ -154,6 +154,7 @@
 <summary>이분 탐색</summary>
 <div markdown="1">
 
+[1477 휴게소 세우기: 골드4](https://www.acmicpc.net/problem/1477)  
 [2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
 
