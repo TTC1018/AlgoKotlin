@@ -36,6 +36,7 @@
 
 [1012 유기농 배추: 실버2](https://www.acmicpc.net/problem/1012)  
 [1326 폴짝폴짝: 실버2](https://www.acmicpc.net/problem/1326)  
+[1600 말이 되고픈 연숭이: 골드3](https://www.acmicpc.net/problem/1600)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)
 
 </div>
