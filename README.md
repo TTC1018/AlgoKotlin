@@ -47,6 +47,15 @@
 </details>
 
 <details>
+<summary>누적합</summary>
+<div markdown="1">
+
+[21758 꿀 따기: 골드5](https://www.acmicpc.net/problem/21758)  
+
+</div>
+</details>
+
+<details>
 <summary>다이나믹 프로그래밍</summary>
 <div markdown="1">
 
