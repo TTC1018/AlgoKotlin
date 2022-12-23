@@ -27,7 +27,8 @@
 <div markdown="1">
 
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
-[16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)
+[13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
+[16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
 
 </div>
 </details>
