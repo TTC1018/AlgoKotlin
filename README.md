@@ -12,6 +12,7 @@
 
 [1041 주사위: 골드5](https://www.acmicpc.net/problem/1041)  
 [1092 배: 골드5](https://www.acmicpc.net/problem/1092)  
+[1461 도서관: 골드5](https://www.acmicpc.net/problem/1461)  
 [1541 잃어버린 괄호: 실버2](https://www.acmicpc.net/problem/1541)  
 [1946 신입 사원: 실버1](https://www.acmicpc.net/problem/1946)  
 [1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
