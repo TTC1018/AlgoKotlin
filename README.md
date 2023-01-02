@@ -152,6 +152,7 @@
 [1038 감소하는 수: 골드5](https://www.acmicpc.net/problem/1038)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
+[19942 다이어트: 골드5](https://www.acmicpc.net/problem/19942)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
 
 </div>
