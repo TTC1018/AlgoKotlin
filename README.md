@@ -45,6 +45,7 @@
 [2668 숫자고르기: 골드5](https://www.acmicpc.net/problem/2668)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
 [10026 적록색약: 골드5](https://www.acmicpc.net/problem/10026)  
+[17141 연구소 2: 골드4](https://www.acmicpc.net/problem/17141)  
 
 </div>
 </details>
