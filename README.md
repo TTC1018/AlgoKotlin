@@ -44,6 +44,7 @@
 [1600 말이 되고픈 연숭이: 골드3](https://www.acmicpc.net/problem/1600)  
 [2668 숫자고르기: 골드5](https://www.acmicpc.net/problem/2668)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
+[6593 상범 빌딩: 골드5](https://www.acmicpc.net/problem/6593)  
 [10026 적록색약: 골드5](https://www.acmicpc.net/problem/10026)  
 [17141 연구소 2: 골드4](https://www.acmicpc.net/problem/17141)  
 
