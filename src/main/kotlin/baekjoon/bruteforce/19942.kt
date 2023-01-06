@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.bruteforce
 
 class `19942` {
 
