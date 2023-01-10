@@ -83,6 +83,7 @@
 <summary>문자열</summary>
 <div markdown="1">
 
+[1501 영어읽기: 골드5](https://www.acmicpc.net/problem/1501)  
 [2870 수학숙제: 실버4](https://www.acmicpc.net/problem/2870)  
 
 </div>

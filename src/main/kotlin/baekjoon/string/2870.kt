@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.string
 
 class `2870` {
 

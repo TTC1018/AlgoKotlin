@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.graph
 
 import kotlin.math.min
 
@@ -19,7 +19,7 @@ class `6593` {
         Pos(1, 0, 0), Pos(-1, 0, 0)
     )
 
-    private fun findStart(L:Int, R:Int, C:Int, graph:List<List<CharArray>>): Pos{
+    private fun findStart(L:Int, R:Int, C:Int, graph:List<List<CharArray>>): Pos {
 
         for (i in 0 until L) {
             for (j in 0 until R) {
@@ -33,7 +33,7 @@ class `6593` {
         return Pos(-1, -1, -1)
     }
 
-    private fun bfs(start:Pos, L:Int, R:Int, C:Int, graph:List<List<CharArray>>){
+    private fun bfs(start: Pos, L:Int, R:Int, C:Int, graph:List<List<CharArray>>){
 
         val visited = Array(L) { Array(R) { BooleanArray(C) { false } } }
         val q = ArrayDeque<Pos>().apply { add(start) }
