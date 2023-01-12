@@ -26,6 +26,7 @@
 <summary>구현</summary>
 <div markdown="1">
 
+[2573 빙산: 골드4](https://www.acmicpc.net/problem/2573)  
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
 [13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
 [16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
