@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.implementation
 
 import kotlin.math.max
 
