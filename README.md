@@ -144,6 +144,7 @@
 
 [1516 게임 개발: 골드3](https://www.acmicpc.net/problem/1516)  
 [2056 작업: 골드4](https://www.acmicpc.net/problem/2056)  
+[2252 줄 세우기: 골드3](https://www.acmicpc.net/problem/2252)  
 [14567 선수과목: 골드5](https://www.acmicpc.net/problem/14567)  
 
 </div>
