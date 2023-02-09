@@ -125,6 +125,15 @@
 </details>
 
 <details>
+<summary>세그먼트 트리</summary>
+<div markdown="1">
+
+[5676 음주 코딩: 골드1](https://www.acmicpc.net/problem/5676)  
+
+</div>
+</details>
+
+<details>
 <summary>수학</summary>
 <div markdown="1">
 
