@@ -5,13 +5,23 @@ class `5676` {
     private lateinit var X: IntArray
     private lateinit var sTree: CharArray
 
+    private fun returnSign(num:Int):Char =
+        when {
+            num > 0 -> '+'
+            num < 0 -> '-'
+            else -> '0'
+        }
+
+    private fun productSign(sign1:Char, sign2:Char):Char =
+        when {
+            sign1 == '0' || sign2 == '0' -> '0'
+            sign1 == sign2 -> '+'
+            else -> '-'
+        }
+
     private fun generateTree(start: Int, end: Int, idx: Int): Char {
         if (start == end) {
-            sTree[idx] = when {
-                X[start] > 0 -> '+'
-                X[start] < 0 -> '-'
-                else -> '0'
-            }
+            sTree[idx] = returnSign(X[start])
             return sTree[idx]
         }
 
@@ -19,11 +29,7 @@ class `5676` {
         val left = generateTree(start, mid, idx * 2)
         val right = generateTree(mid + 1, end, idx * 2 + 1)
 
-        sTree[idx] = when {
-            left == '0' || right == '0' -> '0'
-            left == right -> '+'
-            else -> '-'
-        }
+        sTree[idx] = productSign(left, right)
         return sTree[idx]
     }
 
@@ -37,22 +43,14 @@ class `5676` {
         val left = rangeProduct(ns, mid, ts, te, idx * 2)
         val right = rangeProduct(mid + 1, ne, ts, te, idx * 2 + 1)
 
-        val result = when {
-            left == '0' || right == '0' -> '0'
-            left == right -> '+'
-            else -> '-'
-        }
+        val result = productSign(left, right)
         return result
     }
 
     private fun updateTree(start:Int, end:Int, node:Int, new:Int, idx:Int){
         if (node in start..end){
             if (start == end){
-                sTree[idx] = when {
-                    new > 0 -> '+'
-                    new < 0 -> '-'
-                    else -> '0'
-                }
+                sTree[idx] = returnSign(new)
                 return
             }
 
@@ -62,11 +60,7 @@ class `5676` {
 
             val left = sTree[idx * 2]
             val right = sTree[idx * 2 + 1]
-            sTree[idx] = when {
-                left == '0' || right == '0' -> '0'
-                left == right -> '+'
-                else -> '-'
-            }
+            sTree[idx] = productSign(left, right)
         }
     }
 
