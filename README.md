@@ -129,6 +129,7 @@
 <div markdown="1">
 
 [5676 음주 코딩: 골드1](https://www.acmicpc.net/problem/5676)  
+[14428 수열과 쿼리 16: 골드1](https://www.acmicpc.net/problem/14428)  
 
 </div>
 </details>
