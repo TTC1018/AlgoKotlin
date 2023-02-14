@@ -177,6 +177,7 @@
 [1038 감소하는 수: 골드5](https://www.acmicpc.net/problem/1038)  
 [1405 미친 로봇: 골드4](https://www.acmicpc.net/problem/1405)  
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
+[2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
