@@ -81,7 +81,8 @@
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
 [15990 1, 2, 3 더하기 5: 실버2](https://www.acmicpc.net/problem/15990)  
-[17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  
+[16194 카드 구매하기 2: 실버1](https://www.acmicpc.net/problem/16194)  
+[17070 파이프 옮기기 1: 골드5](https://www.acmicpc.net/problem/17070)  
 
 </div>
 </details>
