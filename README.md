@@ -76,6 +76,7 @@
 [2294 동전 2: 골드5](https://www.acmicpc.net/problem/2294)  
 [2302 극장 좌석: 실버1](https://www.acmicpc.net/problem/2302)  
 [2533 사회망 서비스(SNS): 골드3](https://www.acmicpc.net/problem/2533)  
+[4095 최대 정사각형: 골드4](https://www.acmicpc.net/problem/4095)  
 [5557 1학년: 골드5](https://www.acmicpc.net/problem/5557)  
 [9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
