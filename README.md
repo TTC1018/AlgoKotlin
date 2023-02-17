@@ -47,6 +47,7 @@
 [1600 말이 되고픈 연숭이: 골드3](https://www.acmicpc.net/problem/1600)  
 [1686 복날: 골드4](https://www.acmicpc.net/problem/1686)  
 [1967 트리의 지름: 골드4](https://www.acmicpc.net/problem/1967)  
+[2251 물통: 골드5](https://www.acmicpc.net/problem/2251)  
 [2665 미로만들기: 골드4](https://www.acmicpc.net/problem/2665)  
 [2668 숫자고르기: 골드5](https://www.acmicpc.net/problem/2668)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
