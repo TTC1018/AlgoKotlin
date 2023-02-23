@@ -162,6 +162,7 @@
 
 [1406 에디터: 실버2](https://www.acmicpc.net/problem/1406)  
 [5397 키로거: 실버2](https://www.acmicpc.net/problem/5397)  
+[6198 옥상 정원 꾸미기: 골드5](https://www.acmicpc.net/problem/6198)  
 [10773 제로: 실버4](https://www.acmicpc.net/problem/10773)  
 
 </div>
