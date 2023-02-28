@@ -46,6 +46,7 @@
 [1430 공격: 골드4](https://www.acmicpc.net/problem/1430)  
 [1600 말이 되고픈 연숭이: 골드3](https://www.acmicpc.net/problem/1600)  
 [1686 복날: 골드4](https://www.acmicpc.net/problem/1686)  
+[1726 로봇: 골드3](https://www.acmicpc.net/problem/1726)  
 [1967 트리의 지름: 골드4](https://www.acmicpc.net/problem/1967)  
 [2251 물통: 골드5](https://www.acmicpc.net/problem/2251)  
 [2665 미로만들기: 골드4](https://www.acmicpc.net/problem/2665)  
