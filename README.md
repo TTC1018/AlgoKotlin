@@ -195,6 +195,7 @@
 [1025 제곱수 찾기: 골드5](https://www.acmicpc.net/problem/1025)  
 [1034 램프: 골드4](https://www.acmicpc.net/problem/1034)  
 [1038 감소하는 수: 골드5](https://www.acmicpc.net/problem/1038)  
+[1062 가르침: 골드4](https://www.acmicpc.net/problem/1062)  
 [1342 행운의 문자열: 실버1](https://www.acmicpc.net/problem/1342)  
 [1405 미친 로봇: 골드4](https://www.acmicpc.net/problem/1405)  
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
