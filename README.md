@@ -109,6 +109,7 @@
 [4889 안정적인 문자열: 실버1](https://www.acmicpc.net/problem/4889)  
 [5636 소수 부분 문자열: 실버1](https://www.acmicpc.net/problem/5636)  
 [6443 애너그램: 골드5](https://www.acmicpc.net/problem/6443)  
+[9519 졸려: 골드5](https://www.acmicpc.net/problem/9519)  
 [14725 개미굴: 골드3](https://www.acmicpc.net/problem/14725)  
 
 </div>
