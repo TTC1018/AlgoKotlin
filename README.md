@@ -33,6 +33,7 @@
 [15683 감시: 골드4](https://www.acmicpc.net/problem/15683)  
 [16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
 [17140 이차원 배열과 연산: 골드4](https://www.acmicpc.net/problem/17140)  
+[20056 마법사 상어와 파이어볼: 골드4](https://www.acmicpc.net/problem/20056)  
 
 </div>
 </details>
