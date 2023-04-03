@@ -92,6 +92,7 @@
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [14925 목장 건설하기: 골드4](https://www.acmicpc.net/problem/14925)  
+[15486 퇴사 2: 골드5](https://www.acmicpc.net/problem/15486)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
 [15990 1, 2, 3 더하기 5: 실버2](https://www.acmicpc.net/problem/15990)  
 [16194 카드 구매하기 2: 실버1](https://www.acmicpc.net/problem/16194)  
