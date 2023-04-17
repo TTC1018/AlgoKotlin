@@ -79,6 +79,7 @@
 <div markdown="1">
 
 [1106 호텔: 골드5](https://www.acmicpc.net/problem/1106)  
+[1229 육각수: 골드4](https://www.acmicpc.net/problem/1229)  
 [1309 동물원: 실버1](https://www.acmicpc.net/problem/1309)  
 [1344 축구: 골드4](https://www.acmicpc.net/problem/1344)  
 [1495 기타리스트: 실버1](https://www.acmicpc.net/problem/1495)  

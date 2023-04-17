@@ -1,34 +1,38 @@
 package baekjoon.dp
+import kotlin.math.min
 
 class `1229` {
-
-    private fun lowerBound(nums: IntArray, target: Int) :Int{
-        var left = 0
-        var right = nums.size - 1
-
-        while (left <= right){
-            val mid = left + (right - left).div(2)
-
-            if (nums[mid] >= target){
-                right = mid - 1
-            }
-            else {
-                left = mid + 1
-            }
-        }
-
-        return left
-    }
 
     fun solution() = with(System.`in`.bufferedReader()){
 
         val N = readLine().toInt()
-        // h1 = 1
-        // h2 = (2 * 6 - 6)
-        // h3 = (2 * 6 - 6) + (3 * 4 - 3)
-        // h4 = h3 + (4 * 4 - 3)
+        // hn = n * (2 * n - 1)
+        val h = mutableListOf<Int>().apply {
+            (1..N).forEach {
+                add(it * (2 * it - 1))
+            }
+        }
+        val base = intArrayOf(0, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 6, 2)
 
-        println(lowerBound(intArrayOf(1, 2, 3), 1))
+        when {
+            N < 13 -> print(base[N])
+            N >= 13 -> {
+                val dp = IntArray(N + 1) { 1e9.toInt() }.apply {
+                    this[0] = 0
+                    (1..12).forEach { this[it] = base[it] }
+                }
+
+                (13..N).forEach { n ->
+                    var idx = 0
+                    while (h[idx] <= n) {
+                        dp[n] = min(dp[n], dp[n - h[idx]] + 1)
+                        idx += 1
+                    }
+                }
+                print(dp[N])
+            }
+        }
+
 
     }
 
