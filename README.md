@@ -248,6 +248,7 @@
 [2631 줄세우기: 골드4](https://www.acmicpc.net/problem/2631)  
 [2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
 [3020 개똥벌레: 골드5](https://www.acmicpc.net/problem/3020)  
+[8983 사냥꾼: 골드4](https://www.acmicpc.net/problem/8983)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
 
 </div>
