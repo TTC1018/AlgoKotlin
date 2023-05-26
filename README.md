@@ -140,6 +140,7 @@
 
 [1043 거짓말: 골드4](https://www.acmicpc.net/problem/1043)  
 [1197 최소 스패닝 트리: 골드4](https://www.acmicpc.net/problem/1197)  
+[6497 전력난: 골드4](https://www.acmicpc.net/problem/6497)  
 [17352 여러분의 다리가 되어 드리겠습니다!: 골드5](https://www.acmicpc.net/problem/17352)  
 
 </div>
