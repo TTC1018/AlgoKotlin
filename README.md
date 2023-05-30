@@ -260,6 +260,8 @@
 <div markdown="1">
 
 [2776 암기왕: 실버4](https://www.acmicpc.net/problem/2776)  
+[27964 콰트로치즈피자: 실버5](https://www.acmicpc.net/problem/27964)  
+
 
 </div>
 </details>
