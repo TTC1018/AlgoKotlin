@@ -90,6 +90,7 @@
 [2302 극장 좌석: 실버1](https://www.acmicpc.net/problem/2302)  
 [2411 아이템 먹기: 골드4](https://www.acmicpc.net/problem/2411)  
 [2533 사회망 서비스(SNS): 골드3](https://www.acmicpc.net/problem/2533)  
+[2629 양팔저울: 골드3](https://www.acmicpc.net/problem/2629)  
 [4095 최대 정사각형: 골드4](https://www.acmicpc.net/problem/4095)  
 [5557 1학년: 골드5](https://www.acmicpc.net/problem/5557)  
 [7579 앱: 골드3](https://www.acmicpc.net/problem/7579)  
