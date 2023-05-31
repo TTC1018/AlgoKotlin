@@ -86,6 +86,7 @@
 [1344 축구: 골드4](https://www.acmicpc.net/problem/1344)  
 [1495 기타리스트: 실버1](https://www.acmicpc.net/problem/1495)  
 [1720 타일 코드: 골드4](https://www.acmicpc.net/problem/1720)  
+[2096 내려가기: 골드5](https://www.acmicpc.net/problem/2096)  
 [2294 동전 2: 골드5](https://www.acmicpc.net/problem/2294)  
 [2302 극장 좌석: 실버1](https://www.acmicpc.net/problem/2302)  
 [2411 아이템 먹기: 골드4](https://www.acmicpc.net/problem/2411)  
