@@ -72,6 +72,7 @@
 <summary>누적합</summary>
 <div markdown="1">
 
+[20438 출석체크: 실버2](https://www.acmicpc.net/problem/20438)  
 [21758 꿀 따기: 골드5](https://www.acmicpc.net/problem/21758)  
 
 </div>
