@@ -63,6 +63,7 @@
 [16197 두 동전: 골드4](https://www.acmicpc.net/problem/16197)  
 [16928 뱀과 사다리 게임: 골드5](https://www.acmicpc.net/problem/16928)  
 [17141 연구소 2: 골드4](https://www.acmicpc.net/problem/17141)  
+[18232 텔레포트 정거장: 실버2](https://www.acmicpc.net/problem/18232)  
 
 </div>
 </details>
