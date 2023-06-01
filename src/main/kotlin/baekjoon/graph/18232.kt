@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.graph
 
 class `18232` {
 
