@@ -177,6 +177,7 @@
 <summary>수학</summary>
 <div markdown="1">
 
+[1016: 제곱 ㄴㄴ 수: 골드1](https://www.acmicpc.net/problem/1016)  
 [1188 음식평론가: 골드5](https://www.acmicpc.net/problem/1188)  
 
 </div>
