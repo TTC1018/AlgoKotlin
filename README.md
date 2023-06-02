@@ -69,6 +69,15 @@
 </details>
 
 <details>
+<summary>기하학</summary>
+<div markdown="1">
+
+[17371 이사: 골드1](https://www.acmicpc.net/problem/17371)  
+
+</div>
+</details>
+
+<details>
 <summary>누적합</summary>
 <div markdown="1">
 
