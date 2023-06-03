@@ -257,6 +257,7 @@
 
 [1374 강의실: 골드5](https://www.acmicpc.net/problem/1374)  
 [1655 가운데를 말해요: 골드2](https://www.acmicpc.net/problem/1655)  
+[2014 소수의 곱: 골드1](https://www.acmicpc.net/problem/2014)  
 [2461 대표 선수: 골드2](https://www.acmicpc.net/problem/2461)  
 [11000 강의실 배정: 골드5](https://www.acmicpc.net/problem/11000)  
 [12851 숨바꼭질 2: 골드4](https://www.acmicpc.net/problem/12851)  
