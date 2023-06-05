@@ -188,6 +188,7 @@
 
 [1016: 제곱 ㄴㄴ 수: 골드1](https://www.acmicpc.net/problem/1016)  
 [1188 음식평론가: 골드5](https://www.acmicpc.net/problem/1188)  
+[9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 
 </div>
 </details>
