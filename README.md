@@ -165,6 +165,7 @@
 <summary>분할 정복</summary>
 <div markdown="1">
 
+[1074 Z: 실버1](https://www.acmicpc.net/problem/1074)  
 [1992 쿼드트리: 실버1](https://www.acmicpc.net/problem/1992)  
 
 </div>
