@@ -150,6 +150,15 @@
 </details>
 
 <details>
+<summary>비둘기집 원리</summary>
+<div markdown="1">
+
+[20529 가장 가까운 세 사람의 심리적 거리: 실버1](https://www.acmicpc.net/problem/20529)  
+
+</div>
+</details>
+
+<details>
 <summary>분리 집합</summary>
 <div markdown="1">
 
