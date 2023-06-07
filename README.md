@@ -52,6 +52,7 @@
 [1686 복날: 골드4](https://www.acmicpc.net/problem/1686)  
 [1726 로봇: 골드3](https://www.acmicpc.net/problem/1726)  
 [1967 트리의 지름: 골드4](https://www.acmicpc.net/problem/1967)  
+[1987 알파벳: 골드4(DFS)](https://www.acmicpc.net/problem/1987)  
 [2206 벽 부수고 이동하기: 골드3](https://www.acmicpc.net/problem/2206)  
 [2251 물통: 골드5](https://www.acmicpc.net/problem/2251)  
 [2665 미로만들기: 골드4](https://www.acmicpc.net/problem/2665)  
