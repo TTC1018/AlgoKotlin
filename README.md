@@ -336,6 +336,15 @@
 </div>
 </details>
 
+<details>
+<summary>트리</summary>
+<div markdown="1">
+
+[23326 홍익 투어리스트: 골드3](https://www.acmicpc.net/problem/23326)  
+
+</div>
+</details>
+
 
 ## ✅ 카카오
 ### 2021 인턴십
