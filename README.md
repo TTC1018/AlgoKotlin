@@ -147,6 +147,7 @@
 <div markdown="1">
 
 [15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)  
+[18119 단어 암기: 골드4](https://www.acmicpc.net/problem/18119)  
 
 </div>
 </details>
