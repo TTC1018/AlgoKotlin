@@ -140,6 +140,7 @@
 [5052 전화번호 목록: 골드4](https://www.acmicpc.net/problem/5052)  
 [5636 소수 부분 문자열: 실버1](https://www.acmicpc.net/problem/5636)  
 [6443 애너그램: 골드5](https://www.acmicpc.net/problem/6443)  
+[9241 바이러스 복제: 골드5](https://www.acmicpc.net/problem/9241)  
 [9519 졸려: 골드5](https://www.acmicpc.net/problem/9519)  
 [14725 개미굴: 골드3](https://www.acmicpc.net/problem/14725)  
 
