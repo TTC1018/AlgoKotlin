@@ -266,6 +266,7 @@
 [15684 사다리 조작: 골드3](https://www.acmicpc.net/problem/15684)  
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
 [17281 ⚾: 골드4](https://www.acmicpc.net/problem/17281)  
+[17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
 [19942 다이어트: 골드5](https://www.acmicpc.net/problem/19942)  
 [24268 2022는 무엇이 특별할까?: 실버1](https://www.acmicpc.net/problem/24268)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
