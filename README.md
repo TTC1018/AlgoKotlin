@@ -88,6 +88,7 @@
 
 [20438 출석체크: 실버2](https://www.acmicpc.net/problem/20438)  
 [21758 꿀 따기: 골드5](https://www.acmicpc.net/problem/21758)  
+[27210 신을 모시는 사당: 골드5](https://www.acmicpc.net/problem/27210)  
 
 </div>
 </details>
