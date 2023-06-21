@@ -162,6 +162,7 @@
 <div markdown="1">
 
 [20529 가장 가까운 세 사람의 심리적 거리: 실버1](https://www.acmicpc.net/problem/20529)  
+[25758 유전자 조합: 실버1](https://www.acmicpc.net/problem/25758)  
 
 </div>
 </details>
