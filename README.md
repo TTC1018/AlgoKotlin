@@ -308,6 +308,7 @@
 [3020 개똥벌레: 골드5](https://www.acmicpc.net/problem/3020)  
 [8983 사냥꾼: 골드4](https://www.acmicpc.net/problem/8983)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
+[20495 수열과 헌팅: 실버1](https://www.acmicpc.net/problem/20495)  
 
 </div>
 </details>
