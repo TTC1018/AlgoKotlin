@@ -125,6 +125,7 @@
 [16194 카드 구매하기 2: 실버1](https://www.acmicpc.net/problem/16194)  
 [17070 파이프 옮기기 1: 골드5](https://www.acmicpc.net/problem/17070)  
 [17243 Almost-K Increasing Subsequence: 골드5](https://www.acmicpc.net/problem/17243)  
+[25170 명랑한 아리의 외출: 골드5](https://www.acmicpc.net/problem/25170)  
 
 </div>
 </details>
