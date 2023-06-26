@@ -316,6 +316,15 @@
 </details>
 
 <details>
+<summary>정렬</summary>
+<div markdown="1">
+
+[23740 버스 노선 개편하기: 골드5](https://www.acmicpc.net/problem/23740)  
+
+</div>
+</details>
+
+<details>
 <summary>집합</summary>
 <div markdown="1">
 
