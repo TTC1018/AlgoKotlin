@@ -274,6 +274,7 @@
 [2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [10472 십자뒤집기: 실버1](https://www.acmicpc.net/problem/10472)  
+[14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [15684 사다리 조작: 골드3](https://www.acmicpc.net/problem/15684)  
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
