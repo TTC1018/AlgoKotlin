@@ -126,6 +126,7 @@
 [17070 파이프 옮기기 1: 골드5](https://www.acmicpc.net/problem/17070)  
 [17218 비밀번호 만들기: 골드5](https://www.acmicpc.net/problem/17218)  
 [17243 Almost-K Increasing Subsequence: 골드5](https://www.acmicpc.net/problem/17243)  
+[24390 또 전자레인지야?: 실버1](https://www.acmicpc.net/problem/24390)  
 [25170 명랑한 아리의 외출: 골드5](https://www.acmicpc.net/problem/25170)  
 
 </div>
