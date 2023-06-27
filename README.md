@@ -64,6 +64,7 @@
 [7576 토마토: 골드5](https://www.acmicpc.net/problem/7576)  
 [10026 적록색약: 골드5](https://www.acmicpc.net/problem/10026)  
 [14267 회사 문화 1: 골드4](https://www.acmicpc.net/problem/14267)  
+[14395 4연산: 골드5](https://www.acmicpc.net/problem/14395)  
 [14940 쉬운 최단거리: 실버1](https://www.acmicpc.net/problem/14940)  
 [16197 두 동전: 골드4](https://www.acmicpc.net/problem/16197)  
 [16928 뱀과 사다리 게임: 골드5](https://www.acmicpc.net/problem/16928)  
