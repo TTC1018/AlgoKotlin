@@ -228,6 +228,7 @@
 [2504 괄호의 값: 실버1](https://www.acmicpc.net/problem/2504)  
 [5397 키로거: 실버2](https://www.acmicpc.net/problem/5397)  
 [6198 옥상 정원 꾸미기: 골드5](https://www.acmicpc.net/problem/6198)  
+[9935 문자열 폭발: 골드4](https://www.acmicpc.net/problem/9935)  
 [10773 제로: 실버4](https://www.acmicpc.net/problem/10773)  
 [17298 오큰수: 골드4](https://www.acmicpc.net/problem/17298)  
 
