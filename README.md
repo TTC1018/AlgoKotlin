@@ -279,6 +279,7 @@
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [15684 사다리 조작: 골드3](https://www.acmicpc.net/problem/15684)  
+[16943 숫자 재배치: 실버1](https://www.acmicpc.net/problem/16943)  
 [16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
 [17281 ⚾: 골드4](https://www.acmicpc.net/problem/17281)  
 [17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
