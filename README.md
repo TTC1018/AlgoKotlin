@@ -248,6 +248,15 @@
 </details>
 
 <details>
+<summary>애드 혹</summary>
+<div markdown="1">
+
+[27468 2배 또는 0.5배: 골드5](https://www.acmicpc.net/problem/27468)  
+
+</div>
+</details>
+
+<details>
 <summary>위상 정렬</summary>
 <div markdown="1">
 
