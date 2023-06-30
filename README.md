@@ -314,6 +314,7 @@
 [12851 숨바꼭질 2: 골드4](https://www.acmicpc.net/problem/12851)  
 [13549 숨바꼭질 3: 골드5](https://www.acmicpc.net/problem/13549)  
 [14729 칠무해: 실버5](https://www.acmicpc.net/problem/14729)  
+[22867 종점: 골드5](https://www.acmicpc.net/problem/22867)  
 
 </div>
 </details>
