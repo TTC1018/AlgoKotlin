@@ -379,6 +379,7 @@
 [2467 용액: 골드5](https://www.acmicpc.net/problem/2467)  
 [2470 두 용액: 골드5](https://www.acmicpc.net/problem/2470)  
 [6137 문자열 생성: 골드4](https://www.acmicpc.net/problem/6137)  
+[6503 망가진 키보드: 실버1](https://www.acmicpc.net/problem/6503)  
 [14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)  
 [16472 고냥이: 골드4](https://www.acmicpc.net/problem/16472)  
 [20922 겹치는 건 싫어: 실버1](https://www.acmicpc.net/problem/20922)  
