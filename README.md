@@ -372,6 +372,15 @@
 </details>
 
 <details>
+<summary>큐</summary>
+<div markdown="1">
+
+[14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
+
+</div>
+</details>
+
+<details>
 <summary>투포인터</summary>
 <div markdown="1">
 
