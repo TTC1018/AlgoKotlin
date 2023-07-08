@@ -225,6 +225,7 @@
 [1188 음식평론가: 골드5](https://www.acmicpc.net/problem/1188)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
+[17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
 
 </div>
