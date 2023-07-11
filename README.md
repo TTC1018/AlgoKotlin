@@ -300,7 +300,7 @@
 [15684 사다리 조작: 골드3](https://www.acmicpc.net/problem/15684)  
 [15686 치킨 배달: 골드5](https://www.acmicpc.net/problem/15686)  
 [16943 숫자 재배치: 실버1](https://www.acmicpc.net/problem/16943)  
-[16987 계란으로 계란치기: 실버1](https://www.acmicpc.net/problem/16987)  
+[16987 계란으로 계란치기: 골드5](https://www.acmicpc.net/problem/16987)  
 [17281 ⚾: 골드4](https://www.acmicpc.net/problem/17281)  
 [17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
 [19942 다이어트: 골드5](https://www.acmicpc.net/problem/19942)  
