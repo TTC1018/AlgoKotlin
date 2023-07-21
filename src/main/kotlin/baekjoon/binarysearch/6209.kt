@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon.binarysearch
 
 class `6209` {
     fun solution() = with(System.`in`.bufferedReader()) {
