@@ -66,6 +66,7 @@
 [7576 토마토: 골드5](https://www.acmicpc.net/problem/7576)  
 [9466 텀 프로젝트: 골드3](https://www.acmicpc.net/problem/9466)  
 [10026 적록색약: 골드5](https://www.acmicpc.net/problem/10026)  
+[12784 인하니카 공화국: 골드3](https://www.acmicpc.net/problem/12784)  
 [14217 그래프 탐색: 골드5](https://www.acmicpc.net/problem/14217)  
 [14267 회사 문화 1: 골드4](https://www.acmicpc.net/problem/14267)  
 [14395 4연산: 골드5](https://www.acmicpc.net/problem/14395)  
