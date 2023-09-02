@@ -151,6 +151,7 @@
 
 [1474 밑 줄: 실버1](https://www.acmicpc.net/problem/1474)  
 [1501 영어읽기: 골드5](https://www.acmicpc.net/problem/1501)  
+[1512 주기문으로 바꾸기: 골드5](https://www.acmicpc.net/problem/1512)  
 [1897 토달기: 골드5](https://www.acmicpc.net/problem/1897)  
 [2179 비슷한 단어: 골드4](https://www.acmicpc.net/problem/2179)  
 [2870 수학숙제: 실버4](https://www.acmicpc.net/problem/2870)  
