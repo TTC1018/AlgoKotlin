@@ -115,6 +115,7 @@
 [1344 축구: 골드4](https://www.acmicpc.net/problem/1344)  
 [1495 기타리스트: 실버1](https://www.acmicpc.net/problem/1495)  
 [1633 최고의 팀 만들기: 골드4](https://www.acmicpc.net/problem/1633)  
+[1679 숫자놀이: 실버1](https://www.acmicpc.net/problem/1679)  
 [1699 제곱수의 합: 실버2](https://www.acmicpc.net/problem/1699)
 [1720 타일 코드: 골드4](https://www.acmicpc.net/problem/1720)  
 [2096 내려가기: 골드5](https://www.acmicpc.net/problem/2096)  
