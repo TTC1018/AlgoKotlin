@@ -74,6 +74,7 @@
 [14940 쉬운 최단거리: 실버1](https://www.acmicpc.net/problem/14940)  
 [16197 두 동전: 골드4](https://www.acmicpc.net/problem/16197)  
 [16928 뱀과 사다리 게임: 골드5](https://www.acmicpc.net/problem/16928)  
+[17129 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유: 실버1](https://www.acmicpc.net/problem/17129)  
 [17141 연구소 2: 골드4](https://www.acmicpc.net/problem/17141)  
 [18232 텔레포트 정거장: 실버2](https://www.acmicpc.net/problem/18232)  
 [19538 루머: 골드4](https://www.acmicpc.net/problem/19538)  
