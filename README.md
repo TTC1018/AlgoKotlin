@@ -60,6 +60,7 @@
 [1987 알파벳: 골드4(DFS)](https://www.acmicpc.net/problem/1987)  
 [2206 벽 부수고 이동하기: 골드3](https://www.acmicpc.net/problem/2206)  
 [2251 물통: 골드5](https://www.acmicpc.net/problem/2251)  
+[2310 어드벤처 게임: 골드4](https://www.acmicpc.net/problem/2310)  
 [2412 암벽 등반: 골드4](https://www.acmicpc.net/problem/2412)  
 [2665 미로만들기: 골드4](https://www.acmicpc.net/problem/2665)  
 [2668 숫자고르기: 골드5](https://www.acmicpc.net/problem/2668)  
