@@ -88,6 +88,7 @@
 <summary>기하학</summary>
 <div markdown="1">
 
+[1027 고층 건물: 골드4](https://www.acmicpc.net/problem/1027)  
 [1709 타일 위의 원: 실버2](https://www.acmicpc.net/problem/1709)  
 [3495 아스키 도형: 실버1](https://www.acmicpc.net/problem/3495)  
 [17371 이사: 골드1](https://www.acmicpc.net/problem/17371)  
