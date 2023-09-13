@@ -26,11 +26,7 @@ class `12892` {
         var (p1, p2) = 1 to 1
         while (p1 <= N && p2 <= N) {
             when {
-                p1 == p2 -> {
-                    answer = maxOf(answer, P[p1] - P[p1 - 1])
-                    p2++
-                }
-                G[p2 - 1].p - G[p1 - 1].p < D -> {
+                p1 == p2 || G[p2 - 1].p - G[p1 - 1].p < D -> {
                     answer = maxOf(answer, P[p2] - P[p1 - 1])
                     p2++
                 }
