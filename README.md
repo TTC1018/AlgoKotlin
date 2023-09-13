@@ -310,6 +310,7 @@
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [15684 사다리 조작: 골드3](https://www.acmicpc.net/problem/15684)  
 [15686 치킨 배달: 골드5](https://www.acmicpc.net/problem/15686)  
+[16936 나3곱2: 골드5](https://www.acmicpc.net/problem/16936)  
 [16943 숫자 재배치: 실버1](https://www.acmicpc.net/problem/16943)  
 [16987 계란으로 계란치기: 골드5](https://www.acmicpc.net/problem/16987)  
 [17281 ⚾: 골드4](https://www.acmicpc.net/problem/17281)  
