@@ -355,6 +355,7 @@
 [6209 제자리 멀리뛰기: 골드3](https://www.acmicpc.net/problem/6209)  
 [8983 사냥꾼: 골드4](https://www.acmicpc.net/problem/8983)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
+[18114 블랙 프라이데이: 골드5](https://www.acmicpc.net/problem/18114)  
 [20495 수열과 헌팅: 실버1](https://www.acmicpc.net/problem/20495)  
 
 </div>
