@@ -377,6 +377,7 @@
 <div markdown="1">
 
 [2776 암기왕: 실버4](https://www.acmicpc.net/problem/2776)  
+[17092 색칠 공부: 골드4](https://www.acmicpc.net/problem/17092)  
 [27964 콰트로치즈피자: 실버5](https://www.acmicpc.net/problem/27964)  
 
 
