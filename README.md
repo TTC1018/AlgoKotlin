@@ -35,6 +35,7 @@
 [1148 단어 만들기: 골드5](https://www.acmicpc.net/problem/1148)  
 [2573 빙산: 골드4](https://www.acmicpc.net/problem/2573)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
+[5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
 [13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
 [15683 감시: 골드4](https://www.acmicpc.net/problem/15683)  
@@ -207,6 +208,7 @@
 [6497 전력난: 골드4](https://www.acmicpc.net/problem/6497)  
 [16957 체스판 위의 공: 골드4](https://www.acmicpc.net/problem/16957)  
 [17352 여러분의 다리가 되어 드리겠습니다!: 골드5](https://www.acmicpc.net/problem/17352)  
+[24542 튜터;튜티 관계의 수: 실버1](https://www.acmicpc.net/problem/24542)  
 
 </div>
 </details>
@@ -239,6 +241,7 @@
 
 [1016: 제곱 ㄴㄴ 수: 골드1](https://www.acmicpc.net/problem/1016)  
 [1188 음식평론가: 골드5](https://www.acmicpc.net/problem/1188)  
+[2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
@@ -301,6 +304,7 @@
 [1034 램프: 골드4](https://www.acmicpc.net/problem/1034)  
 [1038 감소하는 수: 골드5](https://www.acmicpc.net/problem/1038)  
 [1062 가르침: 골드4](https://www.acmicpc.net/problem/1062)  
+[1174 줄어드는 수: 골드5](https://www.acmicpc.net/problem/1174)  
 [1342 행운의 문자열: 실버1](https://www.acmicpc.net/problem/1342)  
 [1405 미친 로봇: 골드4](https://www.acmicpc.net/problem/1405)  
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
@@ -377,6 +381,7 @@
 <div markdown="1">
 
 [2776 암기왕: 실버4](https://www.acmicpc.net/problem/2776)  
+[17092 색칠 공부: 골드4](https://www.acmicpc.net/problem/17092)  
 [27964 콰트로치즈피자: 실버5](https://www.acmicpc.net/problem/27964)  
 
 
