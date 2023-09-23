@@ -436,6 +436,7 @@
 <div markdown="1">
 
 [5639 이진 검색 트리: 골드5](https://www.acmicpc.net/problem/5639)  
+[9934 완전 이진 트리: 실버1](https://www.acmicpc.net/problem/9934)  
 [23326 홍익 투어리스트: 골드3](https://www.acmicpc.net/problem/23326)  
 
 </div>
