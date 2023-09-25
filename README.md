@@ -305,6 +305,7 @@
 [1038 감소하는 수: 골드5](https://www.acmicpc.net/problem/1038)  
 [1062 가르침: 골드4](https://www.acmicpc.net/problem/1062)  
 [1174 줄어드는 수: 골드5](https://www.acmicpc.net/problem/1174)  
+[1195 킥다운: 골드5](https://www.acmicpc.net/problem/1195)  
 [1342 행운의 문자열: 실버1](https://www.acmicpc.net/problem/1342)  
 [1405 미친 로봇: 골드4](https://www.acmicpc.net/problem/1405)  
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
