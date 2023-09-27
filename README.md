@@ -220,6 +220,7 @@
 
 [1074 Z: 실버1](https://www.acmicpc.net/problem/1074)  
 [1992 쿼드트리: 실버1](https://www.acmicpc.net/problem/1992)  
+[16974 레벨 햄버거: 실버1](https://www.acmicpc.net/problem/16974)  
 
 </div>
 </details>
