@@ -127,6 +127,7 @@
 [1679 숫자놀이: 실버1](https://www.acmicpc.net/problem/1679)  
 [1699 제곱수의 합: 실버2](https://www.acmicpc.net/problem/1699)
 [1720 타일 코드: 골드4](https://www.acmicpc.net/problem/1720)  
+[1796 신기한 키보드: 골드4](https://www.acmicpc.net/problem/1796)  
 [1965 상자넣기: 실버2](https://www.acmicpc.net/problem/1965)  
 [2096 내려가기: 골드5](https://www.acmicpc.net/problem/2096)  
 [2294 동전 2: 골드5](https://www.acmicpc.net/problem/2294)  
