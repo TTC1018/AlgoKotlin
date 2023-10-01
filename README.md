@@ -210,6 +210,7 @@
 
 [1043 거짓말: 골드4](https://www.acmicpc.net/problem/1043)  
 [1197 최소 스패닝 트리: 골드4](https://www.acmicpc.net/problem/1197)  
+[1647 도시 분할 계획: 골드4](https://www.acmicpc.net/problem/1647)  
 [1774 우주신과의 교감: 골드3](https://www.acmicpc.net/problem/1774)  
 [6497 전력난: 골드4](https://www.acmicpc.net/problem/6497)  
 [16957 체스판 위의 공: 골드4](https://www.acmicpc.net/problem/16957)  
