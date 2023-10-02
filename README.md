@@ -250,6 +250,7 @@
 [1016: 제곱 ㄴㄴ 수: 골드1](https://www.acmicpc.net/problem/1016)  
 [1188 음식평론가: 골드5](https://www.acmicpc.net/problem/1188)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
+[2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
