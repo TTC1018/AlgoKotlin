@@ -20,6 +20,7 @@
 [2258 정육점: 골드4](https://www.acmicpc.net/problem/2258)  
 [4055 파티가 좋아 파티가 좋아: 골드5](https://www.acmicpc.net/problem/4055)  
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
+[12970 AB: 골드4](https://www.acmicpc.net/problem/12970)  
 [15904 UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904)
 [16206 롤케이크: 실버1](https://www.acmicpc.net/problem/16206)  
 [19582 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여: 골드3](https://www.acmicpc.net/problem/19582)  
