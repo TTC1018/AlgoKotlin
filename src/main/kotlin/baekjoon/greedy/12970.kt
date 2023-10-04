@@ -22,21 +22,23 @@ class `12970` {
                 return
             }
 
-            // 우측으로 보낼 A개수
-            for (k in 1 .. i) {
-                val minVal = (i - k) * j
-                val maxVal = (i - k + 1) * j
-                if (K in minVal until maxVal) {
-                    for (cnt in 1..j - k + 1) {
-                        if (K == maxVal - cnt) {
-                            print(
-                                "A".repeat(i - k) +
-                                        "B".repeat(cnt) +
-                                        "A" +
-                                        "B".repeat(j - (k - 1) - cnt) +
-                                        "A".repeat(k - 1)
-                            )
-                            return
+            if (i * j >= K) {
+                // 우측으로 보낼 A개수
+                for (k in 1 .. i) {
+                    val minVal = (i - k) * j
+                    val maxVal = (i - k + 1) * j
+                    if (K in minVal until maxVal) {
+                        for (cnt in 1..j - k + 1) {
+                            if (K == maxVal - cnt) {
+                                print(
+                                    "A".repeat(i - k) +
+                                            "B".repeat(cnt) +
+                                            "A" +
+                                            "B".repeat(j - (k - 1) - cnt) +
+                                            "A".repeat(k - 1)
+                                )
+                                return
+                            }
                         }
                     }
                 }
