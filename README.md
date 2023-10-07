@@ -325,6 +325,7 @@
 [2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [6987 월드컵: 골드4](https://www.acmicpc.net/problem/6987)  
+[9763 마을의 친밀도: 골드5](https://www.acmicpc.net/problem/9763)  
 [10472 십자뒤집기: 실버1](https://www.acmicpc.net/problem/10472)  
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
