@@ -341,6 +341,7 @@
 [17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
 [19942 다이어트: 골드5](https://www.acmicpc.net/problem/19942)  
 [20166 문자열 지옥에 빠진 호석: 골드5](https://www.acmicpc.net/problem/20166)  
+[21315 카드 섞기: 골드5](https://www.acmicpc.net/problem/21315)  
 [24268 2022는 무엇이 특별할까?: 실버1](https://www.acmicpc.net/problem/24268)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
 
