@@ -451,6 +451,15 @@
 </details>
 
 <details>
+<summary>트라이</summary>
+<div markdown="1">
+
+[19585 전설: 플래티넘3](https://www.acmicpc.net/problem/19585)  
+
+</div>
+</details>
+
+<details>
 <summary>트리</summary>
 <div markdown="1">
 
