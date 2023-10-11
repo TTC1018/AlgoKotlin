@@ -75,6 +75,7 @@
 [7576 토마토: 골드5](https://www.acmicpc.net/problem/7576)  
 [9466 텀 프로젝트: 골드3](https://www.acmicpc.net/problem/9466)  
 [10026 적록색약: 골드5](https://www.acmicpc.net/problem/10026)  
+[11266 단절점: 플래티넘4](https://www.acmicpc.net/problem/11266)  
 [12784 인하니카 공화국: 골드3](https://www.acmicpc.net/problem/12784)  
 [13913 숨바꼭질 4: 골드4](https://www.acmicpc.net/problem/13913)  
 [14217 그래프 탐색: 골드5](https://www.acmicpc.net/problem/14217)  
