@@ -18,6 +18,7 @@
 [1946 신입 사원: 실버1](https://www.acmicpc.net/problem/1946)  
 [2141 우체국: 골드4](https://www.acmicpc.net/problem/2141)  
 [2258 정육점: 골드4](https://www.acmicpc.net/problem/2258)  
+[2405 세 수, 두 M: 골드4](https://www.acmicpc.net/problem/2405)  
 [4055 파티가 좋아 파티가 좋아: 골드5](https://www.acmicpc.net/problem/4055)  
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
 [12970 AB: 골드4](https://www.acmicpc.net/problem/12970)  
