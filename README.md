@@ -477,6 +477,7 @@
 [9934 완전 이진 트리: 실버1](https://www.acmicpc.net/problem/9934)  
 [22856 트리 순회: 골드4](https://www.acmicpc.net/problem/22856)  
 [23326 홍익 투어리스트: 골드3](https://www.acmicpc.net/problem/23326)  
+[25511 값이 k인 트리 노드의 깊이: 실버2](https://www.acmicpc.net/problem/25511)  
 [26260 이가 빠진 이진 트리: 골드5](https://www.acmicpc.net/problem/26260)  
 
 </div>
