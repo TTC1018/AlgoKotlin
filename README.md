@@ -291,7 +291,8 @@
 <summary>슬라이딩 윈도우</summary>
 <div markdown="1">
 
-[11003 최솟값 찾기: 플래티넘5](https://www.acmicpc.net/problem/11003)     
+[11003 최솟값 찾기: 플래티넘5](https://www.acmicpc.net/problem/11003)  
+[15961 회전 초밥: 골드4](https://www.acmicpc.net/problem/15961)  
 
 </div>
 </details>
