@@ -29,6 +29,7 @@
 [24023 아기 홍윤: 골드5](https://www.acmicpc.net/problem/24023)  
 [24524 아름다운 문자열: 골드5](https://www.acmicpc.net/problem/24524)  
 [25381 ABBC: 골드4](https://www.acmicpc.net/problem/25381)  
+[26075 곰곰아 선 넘지마](https://www.acmicpc.net/problem/26075)  
 
 </div>
 </details>
