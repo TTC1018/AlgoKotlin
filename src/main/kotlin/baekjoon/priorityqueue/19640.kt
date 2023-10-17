@@ -2,10 +2,11 @@ package baekjoon.priorityqueue
 
 import java.util.*
 
+private var N = 0
+private var M = 0
+private var K = 0
+
 class `19640` {
-    private var N = 0
-    private var M = 0
-    private var K = 0
 
     private data class Worker(
         val num: Int,
