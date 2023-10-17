@@ -353,6 +353,7 @@
 [16987 계란으로 계란치기: 골드5](https://www.acmicpc.net/problem/16987)  
 [17281 ⚾: 골드4](https://www.acmicpc.net/problem/17281)  
 [17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
+[18290 NM과 K (1): 실버1](https://www.acmicpc.net/problem/18290)  
 [19942 다이어트: 골드5](https://www.acmicpc.net/problem/19942)  
 [20166 문자열 지옥에 빠진 호석: 골드5](https://www.acmicpc.net/problem/20166)  
 [21315 카드 섞기: 골드5](https://www.acmicpc.net/problem/21315)  
