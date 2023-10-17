@@ -115,6 +115,7 @@
 <div markdown="1">
 
 [2313 보석 구매하기: 골드5](https://www.acmicpc.net/problem/2313)  
+[12841 정보대 등산: 실버2](https://www.acmicpc.net/problem/12841)  
 [20438 출석체크: 실버2](https://www.acmicpc.net/problem/20438)  
 [21758 꿀 따기: 골드5](https://www.acmicpc.net/problem/21758)  
 [25682 체스판 다시 칠하기: 골드5](https://www.acmicpc.net/problem/25682)  
