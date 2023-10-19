@@ -29,6 +29,7 @@
 [16206 롤케이크: 실버1](https://www.acmicpc.net/problem/16206)  
 [19582 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여: 골드3](https://www.acmicpc.net/problem/19582)  
 [20311 화학 실험: 골드5](https://www.acmicpc.net/problem/20311)  
+[23322 초콜릿 뺏어 먹기: 실버2](https://www.acmicpc.net/problem/23322)  
 [24023 아기 홍윤: 골드5](https://www.acmicpc.net/problem/24023)  
 [24524 아름다운 문자열: 골드5](https://www.acmicpc.net/problem/24524)  
 [25381 ABBC: 골드4](https://www.acmicpc.net/problem/25381)  
