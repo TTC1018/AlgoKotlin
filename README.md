@@ -98,6 +98,7 @@
 [18232 텔레포트 정거장: 실버2](https://www.acmicpc.net/problem/18232)  
 [19538 루머: 골드4](https://www.acmicpc.net/problem/19538)  
 [25601 자바의 형변환: 실버1](https://www.acmicpc.net/problem/25601)  
+[27737 버섯 농장: 실버1](https://www.acmicpc.net/problem/27737)  
 
 </div>
 </details>
