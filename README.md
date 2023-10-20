@@ -313,6 +313,7 @@
 
 [12968 방문: 실버2](https://www.acmicpc.net/problem/12968)  
 [27468 2배 또는 0.5배: 골드5](https://www.acmicpc.net/problem/27468)  
+[28359 수열의 가치: 골드5](https://www.acmicpc.net/problem/28359)  
 
 </div>
 </details>
