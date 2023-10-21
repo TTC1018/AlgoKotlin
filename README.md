@@ -20,6 +20,7 @@
 [2141 우체국: 골드4](https://www.acmicpc.net/problem/2141)  
 [2258 정육점: 골드4](https://www.acmicpc.net/problem/2258)  
 [2405 세 수, 두 M: 골드4](https://www.acmicpc.net/problem/2405)  
+[2697 다음수 구하기: 실버2](https://www.acmicpc.net/problem/2697)  
 [3216 다운로드: 실버2](https://www.acmicpc.net/problem/3216)  
 [4055 파티가 좋아 파티가 좋아: 골드5](https://www.acmicpc.net/problem/4055)  
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
