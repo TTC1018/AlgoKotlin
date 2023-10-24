@@ -461,6 +461,7 @@
 <div markdown="1">
 
 [14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
+[27497 알파벳 블록: 실버2](https://www.acmicpc.net/problem/27497)  
 
 </div>
 </details>
