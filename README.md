@@ -19,6 +19,7 @@
 [1946 신입 사원: 실버1](https://www.acmicpc.net/problem/1946)  
 [2141 우체국: 골드4](https://www.acmicpc.net/problem/2141)  
 [2258 정육점: 골드4](https://www.acmicpc.net/problem/2258)  
+[2374 같은 수 만들기: 골드4](https://www.acmicpc.net/problem/2374)  
 [2405 세 수, 두 M: 골드4](https://www.acmicpc.net/problem/2405)  
 [2697 다음수 구하기: 실버2](https://www.acmicpc.net/problem/2697)  
 [3216 다운로드: 실버2](https://www.acmicpc.net/problem/3216)  
