@@ -380,6 +380,7 @@
 [21315 카드 섞기: 골드5](https://www.acmicpc.net/problem/21315)  
 [24268 2022는 무엇이 특별할까?: 실버1](https://www.acmicpc.net/problem/24268)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
+[27967 고추장 괄호 문자열: 실버2](https://www.acmicpc.net/problem/27967)  
 
 </div>
 </details>
