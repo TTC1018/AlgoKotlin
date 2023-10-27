@@ -400,6 +400,7 @@
 [14729 칠무해: 실버5](https://www.acmicpc.net/problem/14729)  
 [19640 화장실의 규칙: 골드4](https://www.acmicpc.net/problem/19640)  
 [22867 종점: 골드5](https://www.acmicpc.net/problem/22867)  
+[28107 회전초밥: 실버1](https://www.acmicpc.net/problem/28107)  
 
 </div>
 </details>
