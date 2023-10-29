@@ -421,6 +421,7 @@
 [6209 제자리 멀리뛰기: 골드3](https://www.acmicpc.net/problem/6209)  
 [8983 사냥꾼: 골드4](https://www.acmicpc.net/problem/8983)  
 [14575 뒤풀이: 실버1](https://www.acmicpc.net/problem/14575)  
+[14627 파닭파닭: 실버2](https://www.acmicpc.net/problem/14627)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
 [17179 케이크 자르기: 골드5](https://www.acmicpc.net/problem/17179)  
 [18114 블랙 프라이데이: 골드5](https://www.acmicpc.net/problem/18114)  
