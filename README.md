@@ -367,6 +367,7 @@
 [10472 십자뒤집기: 실버1](https://www.acmicpc.net/problem/10472)  
 [10881 프로도의 선물 포장: 골드4](https://www.acmicpc.net/problem/10881)  
 [12101 1, 2, 3 더하기 2: 실버1](https://www.acmicpc.net/problem/12101)  
+[12842 튀김 소보루: 실버1](https://www.acmicpc.net/problem/12842)  
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [15658 연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658)  
