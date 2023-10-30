@@ -187,6 +187,7 @@
 [25170 명랑한 아리의 외출: 골드5](https://www.acmicpc.net/problem/25170)  
 [25343 최장 최장 증가 부분 수열: 골드5](https://www.acmicpc.net/problem/25343)  
 [28325 호숫가의 개미굴: 골드5](https://www.acmicpc.net/problem/28325)  
+[28360 양동이 게임: 실버1](https://www.acmicpc.net/problem/28360)  
 
 </div>
 </details>
