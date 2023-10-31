@@ -430,6 +430,7 @@
 [14627 파닭파닭: 실버2](https://www.acmicpc.net/problem/14627)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
 [17179 케이크 자르기: 골드5](https://www.acmicpc.net/problem/17179)  
+[18113 그르다 김가놈: 실버2](https://www.acmicpc.net/problem/18113)  
 [18114 블랙 프라이데이: 골드5](https://www.acmicpc.net/problem/18114)  
 [20495 수열과 헌팅: 실버1](https://www.acmicpc.net/problem/20495)  
 
