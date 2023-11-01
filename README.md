@@ -131,6 +131,7 @@
 [2313 보석 구매하기: 골드5](https://www.acmicpc.net/problem/2313)  
 [7348 테이블 옮기기: 실버2](https://www.acmicpc.net/problem/7348)  
 [12841 정보대 등산: 실버2](https://www.acmicpc.net/problem/12841)  
+[14465 소가 길을 건너간 이유 5: 실버2](https://www.acmicpc.net/problem/14465)  
 [20438 출석체크: 실버2](https://www.acmicpc.net/problem/20438)  
 [21758 꿀 따기: 골드5](https://www.acmicpc.net/problem/21758)  
 [25682 체스판 다시 칠하기: 골드5](https://www.acmicpc.net/problem/25682)  
