@@ -172,6 +172,7 @@
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [9764 서로 다른 자연수의 합: 골드5](https://www.acmicpc.net/problem/9764)  
 [10571 다이아몬드: 실버1](https://www.acmicpc.net/problem/10571)  
+[14231 박스 포장: 실버2](https://www.acmicpc.net/problem/14231)  
 [14925 목장 건설하기: 골드4](https://www.acmicpc.net/problem/14925)  
 [15486 퇴사 2: 골드5](https://www.acmicpc.net/problem/15486)  
 [15645 내려가기 2: 실버1](https://www.acmicpc.net/problem/15645)  
