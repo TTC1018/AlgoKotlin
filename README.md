@@ -185,6 +185,7 @@
 [17291 새끼치기: 실버2](https://www.acmicpc.net/problem/17291)  
 [17351 3루수는 몰라: 골드4](https://www.acmicpc.net/problem/17351)  
 [20162 간식 파티: 실버2](https://www.acmicpc.net/problem/20162)  
+[21555 빛의 돌 옮기기: 실버2](https://www.acmicpc.net/problem/21555)  
 [22857 가장 긴 짝수 연속한 부분 수열 (small): 실버2](https://www.acmicpc.net/problem/22857)  
 [24390 또 전자레인지야?: 실버1](https://www.acmicpc.net/problem/24390)  
 [25170 명랑한 아리의 외출: 골드5](https://www.acmicpc.net/problem/25170)  
