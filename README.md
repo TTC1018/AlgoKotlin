@@ -375,6 +375,7 @@
 [12842 튀김 소보루: 실버1](https://www.acmicpc.net/problem/12842)  
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
+[15566 개구리 1: 실버1](https://www.acmicpc.net/problem/15566)  
 [15658 연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658)  
 [15684 사다리 조작: 골드3](https://www.acmicpc.net/problem/15684)  
 [15686 치킨 배달: 골드5](https://www.acmicpc.net/problem/15686)  
