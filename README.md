@@ -289,6 +289,7 @@
 [1016: 제곱 ㄴㄴ 수: 골드1](https://www.acmicpc.net/problem/1016)  
 [1188 음식평론가: 골드5](https://www.acmicpc.net/problem/1188)  
 [1241 머리 톡톡: 골드5](https://www.acmicpc.net/problem/1241)  
+[1565 수학: 골드4](https://www.acmicpc.net/problem/1565)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
