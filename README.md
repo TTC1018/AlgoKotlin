@@ -49,6 +49,7 @@
 [1148 단어 만들기: 골드5](https://www.acmicpc.net/problem/1148)  
 [2573 빙산: 골드4](https://www.acmicpc.net/problem/2573)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
+[4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
 [5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
 [13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
