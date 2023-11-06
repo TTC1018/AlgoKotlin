@@ -256,6 +256,7 @@
 [7511 소셜 네트워킹 어플리케이션: 골드5](https://www.acmicpc.net/problem/7511)  
 [16957 체스판 위의 공: 골드4](https://www.acmicpc.net/problem/16957)  
 [17352 여러분의 다리가 되어 드리겠습니다!: 골드5](https://www.acmicpc.net/problem/17352)  
+[18769 그리드 네트워크: 골드4](https://www.acmicpc.net/problem/18769)  
 [24542 튜터;튜티 관계의 수: 실버1](https://www.acmicpc.net/problem/24542)  
 
 </div>
