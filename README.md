@@ -194,6 +194,7 @@
 [24390 또 전자레인지야?: 실버1](https://www.acmicpc.net/problem/24390)  
 [25170 명랑한 아리의 외출: 골드5](https://www.acmicpc.net/problem/25170)  
 [25343 최장 최장 증가 부분 수열: 골드5](https://www.acmicpc.net/problem/25343)  
+[25822 2000문제 푼 임스: 실버1](https://www.acmicpc.net/problem/25822)  
 [28325 호숫가의 개미굴: 골드5](https://www.acmicpc.net/problem/28325)  
 [28360 양동이 게임: 실버1](https://www.acmicpc.net/problem/28360)  
 
