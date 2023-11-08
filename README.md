@@ -47,6 +47,7 @@
 
 [1138 한 줄로 서기: 실버2](https://www.acmicpc.net/problem/1138)  
 [1148 단어 만들기: 골드5](https://www.acmicpc.net/problem/1148)  
+[2115 갤러리: 골드5](https://www.acmicpc.net/problem/2115)  
 [2573 빙산: 골드4](https://www.acmicpc.net/problem/2573)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
