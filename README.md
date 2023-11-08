@@ -439,6 +439,7 @@
 [2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
 [3020 개똥벌레: 골드5](https://www.acmicpc.net/problem/3020)  
 [5710 전기요금: 골드4](https://www.acmicpc.net/problem/5710)  
+[6068 시간 관리하기: 골드5](https://www.acmicpc.net/problem/6068)  
 [6209 제자리 멀리뛰기: 골드3](https://www.acmicpc.net/problem/6209)  
 [8983 사냥꾼: 골드4](https://www.acmicpc.net/problem/8983)  
 [14575 뒤풀이: 실버1](https://www.acmicpc.net/problem/14575)  
