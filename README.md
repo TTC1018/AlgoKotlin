@@ -166,6 +166,7 @@
 [2294 동전 2: 골드5](https://www.acmicpc.net/problem/2294)  
 [2302 극장 좌석: 실버1](https://www.acmicpc.net/problem/2302)  
 [2411 아이템 먹기: 골드4](https://www.acmicpc.net/problem/2411)  
+[2418 단어 격자: 골드5](https://www.acmicpc.net/problem/2418)  
 [2533 사회망 서비스(SNS): 골드3](https://www.acmicpc.net/problem/2533)  
 [2629 양팔저울: 골드3](https://www.acmicpc.net/problem/2629)  
 [3099 도트 매트릭스 프린터: 골드4](https://www.acmicpc.net/problem/3099)  
