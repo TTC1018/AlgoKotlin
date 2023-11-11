@@ -59,6 +59,7 @@
 [17140 이차원 배열과 연산: 골드4](https://www.acmicpc.net/problem/17140)  
 [17144 미세먼지 안녕!: 골드4](https://www.acmicpc.net/problem/17144)  
 [20056 마법사 상어와 파이어볼: 골드4](https://www.acmicpc.net/problem/20056)  
+[26597 이 사람 왜 이렇게 1122를 좋아함?: 실버2](https://www.acmicpc.net/problem/26597)  
 
 </div>
 </details>
