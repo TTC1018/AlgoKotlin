@@ -385,6 +385,7 @@
 [1195 킥다운: 골드5](https://www.acmicpc.net/problem/1195)  
 [1342 행운의 문자열: 실버1](https://www.acmicpc.net/problem/1342)  
 [1405 미친 로봇: 골드4](https://www.acmicpc.net/problem/1405)  
+[1421 나무꾼 이다솜: 실버1](https://www.acmicpc.net/problem/1421)  
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
 [1821 수들의 합 6: 실버1](https://www.acmicpc.net/problem/1821)  
 [1941 소문난 칠공주: 골드3](https://www.acmicpc.net/problem/1941)  
