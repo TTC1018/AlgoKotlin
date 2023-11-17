@@ -52,6 +52,7 @@
 [1148 단어 만들기: 골드5](https://www.acmicpc.net/problem/1148)  
 [2115 갤러리: 골드5](https://www.acmicpc.net/problem/2115)  
 [2573 빙산: 골드4](https://www.acmicpc.net/problem/2573)  
+[3961 터치스크린 키보드: 실버2](https://www.acmicpc.net/problem/3961)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
 [5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
