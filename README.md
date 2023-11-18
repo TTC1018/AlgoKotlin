@@ -401,6 +401,7 @@
 [9763 마을의 친밀도: 골드5](https://www.acmicpc.net/problem/9763)  
 [10472 십자뒤집기: 실버1](https://www.acmicpc.net/problem/10472)  
 [10881 프로도의 선물 포장: 골드4](https://www.acmicpc.net/problem/10881)  
+[11578 팀원 모집: 골드5](https://www.acmicpc.net/problem/11578)  
 [12101 1, 2, 3 더하기 2: 실버1](https://www.acmicpc.net/problem/12101)  
 [12842 튀김 소보루: 실버1](https://www.acmicpc.net/problem/12842)  
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
