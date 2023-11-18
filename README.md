@@ -15,6 +15,7 @@
 [1455 뒤집기 II: 실버1](https://www.acmicpc.net/problem/1455)  
 [1461 도서관: 골드5](https://www.acmicpc.net/problem/1461)  
 [1541 잃어버린 괄호: 실버2](https://www.acmicpc.net/problem/1541)  
+[1744 수 묶기: 골드4](https://www.acmicpc.net/problem/1744)  
 [1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
 [1900 레슬러: 실버2](https://www.acmicpc.net/problem/1900)  
 [1946 신입 사원: 실버1](https://www.acmicpc.net/problem/1946)  
