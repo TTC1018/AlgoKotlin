@@ -12,6 +12,7 @@
 
 [1041 주사위: 골드5](https://www.acmicpc.net/problem/1041)  
 [1092 배: 골드5](https://www.acmicpc.net/problem/1092)  
+[1339 단어 수학: 골드4](https://www.acmicpc.net/problem/1339)  
 [1455 뒤집기 II: 실버1](https://www.acmicpc.net/problem/1455)  
 [1461 도서관: 골드5](https://www.acmicpc.net/problem/1461)  
 [1541 잃어버린 괄호: 실버2](https://www.acmicpc.net/problem/1541)  
