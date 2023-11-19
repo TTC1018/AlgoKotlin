@@ -562,6 +562,7 @@
 [1595 북쪽나라의 도로: 골드4](https://www.acmicpc.net/problem/1595)  
 [5639 이진 검색 트리: 골드5](https://www.acmicpc.net/problem/5639)  
 [9934 완전 이진 트리: 실버1](https://www.acmicpc.net/problem/9934)  
+[20364 부동산 다툼: 실버1](https://www.acmicpc.net/problem/20364)  
 [22856 트리 순회: 골드4](https://www.acmicpc.net/problem/22856)  
 [23326 홍익 투어리스트: 골드3](https://www.acmicpc.net/problem/23326)  
 [25511 값이 k인 트리 노드의 깊이: 실버2](https://www.acmicpc.net/problem/25511)  
