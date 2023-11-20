@@ -467,6 +467,7 @@
 [6068 시간 관리하기: 골드5](https://www.acmicpc.net/problem/6068)  
 [6209 제자리 멀리뛰기: 골드3](https://www.acmicpc.net/problem/6209)  
 [8983 사냥꾼: 골드4](https://www.acmicpc.net/problem/8983)  
+[13397 구간 나누기 2: 골드4](https://www.acmicpc.net/problem/13397)  
 [14575 뒤풀이: 실버1](https://www.acmicpc.net/problem/14575)  
 [14627 파닭파닭: 실버2](https://www.acmicpc.net/problem/14627)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
