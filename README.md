@@ -91,6 +91,7 @@
 [2665 미로만들기: 골드4](https://www.acmicpc.net/problem/2665)  
 [2668 숫자고르기: 골드5](https://www.acmicpc.net/problem/2668)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
+[5107 마니또: 실버1](https://www.acmicpc.net/problem/5107)  
 [6087 레이저 통신: 골드3](https://www.acmicpc.net/problem/6087)  
 [6118 숨바꼭질: 실버1](https://www.acmicpc.net/problem/6118)  
 [6146 신아를 만나러: 실버1](https://www.acmicpc.net/problem/6146)  
