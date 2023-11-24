@@ -60,6 +60,7 @@
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
 [5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
+[13022 늑대와 올바른 단어: 실버2](https://www.acmicpc.net/problem/13022)  
 [13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
 [15683 감시: 골드4](https://www.acmicpc.net/problem/15683)  
 [16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
