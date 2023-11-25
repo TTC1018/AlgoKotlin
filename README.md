@@ -359,6 +359,7 @@
 
 [11003 최솟값 찾기: 플래티넘5](https://www.acmicpc.net/problem/11003)  
 [15961 회전 초밥: 골드4](https://www.acmicpc.net/problem/15961)  
+[20437 문자열 게임 2: 골드5](https://www.acmicpc.net/problem/20437)  
 
 </div>
 </details>
