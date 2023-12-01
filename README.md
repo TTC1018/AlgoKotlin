@@ -406,6 +406,7 @@
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
 [1821 수들의 합 6: 실버1](https://www.acmicpc.net/problem/1821)  
 [1941 소문난 칠공주: 골드3](https://www.acmicpc.net/problem/1941)  
+[2210 숫자판 점프: 실버2](https://www.acmicpc.net/problem/2210)  
 [2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [6987 월드컵: 골드4](https://www.acmicpc.net/problem/6987)  
