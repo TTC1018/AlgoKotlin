@@ -259,6 +259,7 @@
 <summary>비트마스킹</summary>
 <div markdown="1">
 
+[1322 X와 K: 골드4](https://www.acmicpc.net/problem/1322)  
 [14569 시간표 짜기: 실버2](https://www.acmicpc.net/problem/14569)  
 [15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)  
 [18119 단어 암기: 골드4](https://www.acmicpc.net/problem/18119)  
