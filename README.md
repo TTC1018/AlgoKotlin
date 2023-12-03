@@ -163,6 +163,7 @@
 [21758 꿀 따기: 골드5](https://www.acmicpc.net/problem/21758)  
 [25682 체스판 다시 칠하기: 골드5](https://www.acmicpc.net/problem/25682)  
 [25708 만남의 광장: 실버1](https://www.acmicpc.net/problem/25708)  
+[25947 선물할인: 실버1](https://www.acmicpc.net/problem/25947)  
 [27210 신을 모시는 사당: 골드5](https://www.acmicpc.net/problem/27210)  
 [28070 유니의 편지 쓰기: 골드5](https://www.acmicpc.net/problem/28070)  
 
