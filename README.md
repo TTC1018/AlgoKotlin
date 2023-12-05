@@ -424,6 +424,7 @@
 [12842 튀김 소보루: 실버1](https://www.acmicpc.net/problem/12842)  
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
+[14620 꽃길: 실버2](https://www.acmicpc.net/problem/14620)  
 [15566 개구리 1: 실버1](https://www.acmicpc.net/problem/15566)  
 [15658 연산자 끼워넣기 (2): 실버2](https://www.acmicpc.net/problem/15658)  
 [15644 N과 M(10): 실버2](https://www.acmicpc.net/problem/15664)  
