@@ -507,6 +507,7 @@
 [13884 삭삽 정렬: 골드5](https://www.acmicpc.net/problem/13884)  
 [18230 2xN 예쁜 타일링: 실버1](https://www.acmicpc.net/problem/18230)    
 [18248 제야의 종: 실버2](https://www.acmicpc.net/problem/18248)  
+[23279 서열 사회: 실버2](https://www.acmicpc.net/problem/23279)  
 [23740 버스 노선 개편하기: 골드5](https://www.acmicpc.net/problem/23740)  
 
 </div>
