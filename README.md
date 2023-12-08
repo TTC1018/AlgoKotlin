@@ -480,6 +480,7 @@
 [1477 휴게소 세우기: 골드4](https://www.acmicpc.net/problem/1477)  
 [2110 공유기 설치: 골드4](https://www.acmicpc.net/problem/2110)  
 [2631 줄세우기: 골드4](https://www.acmicpc.net/problem/2631)  
+[2792 보석 상자: 실버1](https://www.acmicpc.net/problem/2792)  
 [2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
 [3020 개똥벌레: 골드5](https://www.acmicpc.net/problem/3020)  
 [5710 전기요금: 골드4](https://www.acmicpc.net/problem/5710)  
