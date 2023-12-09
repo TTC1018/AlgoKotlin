@@ -195,6 +195,7 @@
 [2629 양팔저울: 골드3](https://www.acmicpc.net/problem/2629)  
 [3099 도트 매트릭스 프린터: 골드4](https://www.acmicpc.net/problem/3099)  
 [4095 최대 정사각형: 골드4](https://www.acmicpc.net/problem/4095)  
+[5546 파스타: 골드4](https://www.acmicpc.net/problem/5546)  
 [5557 1학년: 골드5](https://www.acmicpc.net/problem/5557)  
 [7579 앱: 골드3](https://www.acmicpc.net/problem/7579)  
 [9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
