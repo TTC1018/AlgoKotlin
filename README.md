@@ -519,6 +519,7 @@
 [18248 제야의 종: 실버2](https://www.acmicpc.net/problem/18248)  
 [23279 서열 사회: 실버2](https://www.acmicpc.net/problem/23279)  
 [23740 버스 노선 개편하기: 골드5](https://www.acmicpc.net/problem/23740)  
+[30022 행사 준비: 실버2](https://www.acmicpc.net/problem/30022)  
 
 </div>
 </details>
