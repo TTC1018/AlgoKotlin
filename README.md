@@ -383,6 +383,7 @@
 
 [12947 트리 만들기: 골드4](https://www.acmicpc.net/problem/12947)  
 [12968 방문: 실버2](https://www.acmicpc.net/problem/12968)  
+[21605 아름다운 수열: 실버1](https://www.acmicpc.net/problem/21605)  
 [26085 효구와 호규 (Easy): 실버1](https://www.acmicpc.net/problem/26085)  
 [27468 2배 또는 0.5배: 골드5](https://www.acmicpc.net/problem/27468)  
 [28359 수열의 가치: 골드5](https://www.acmicpc.net/problem/28359)  
