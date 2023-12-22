@@ -355,6 +355,7 @@
 [2257 화학식량: 실버2](https://www.acmicpc.net/problem/2257)  
 [2504 괄호의 값: 실버1](https://www.acmicpc.net/problem/2504)  
 [2812 크게 만들기: 골드3](https://www.acmicpc.net/problem/2812)  
+[2841 외계인의 기타 연주: 실버1](https://www.acmicpc.net/problem/2841)  
 [5397 키로거: 실버2](https://www.acmicpc.net/problem/5397)  
 [6198 옥상 정원 꾸미기: 골드5](https://www.acmicpc.net/problem/6198)  
 [9935 문자열 폭발: 골드4](https://www.acmicpc.net/problem/9935)  
