@@ -65,6 +65,7 @@
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
 [13022 늑대와 올바른 단어: 실버2](https://www.acmicpc.net/problem/13022)  
 [13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
+[14503 로봇 청소기: 골드5](https://www.acmicpc.net/problem/14503)  
 [15683 감시: 골드4](https://www.acmicpc.net/problem/15683)  
 [16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
 [17140 이차원 배열과 연산: 골드4](https://www.acmicpc.net/problem/17140)  
