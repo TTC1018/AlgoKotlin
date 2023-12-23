@@ -491,6 +491,7 @@
 
 [1477 휴게소 세우기: 골드4](https://www.acmicpc.net/problem/1477)  
 [2110 공유기 설치: 골드4](https://www.acmicpc.net/problem/2110)  
+[2295 세 수의 합: 골드4](https://www.acmicpc.net/problem/2295)  
 [2631 줄세우기: 골드4](https://www.acmicpc.net/problem/2631)  
 [2792 보석 상자: 실버1](https://www.acmicpc.net/problem/2792)  
 [2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
