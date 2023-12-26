@@ -222,6 +222,7 @@
 [17243 Almost-K Increasing Subsequence: 골드5](https://www.acmicpc.net/problem/17243)  
 [17291 새끼치기: 실버2](https://www.acmicpc.net/problem/17291)  
 [17351 3루수는 몰라: 골드4](https://www.acmicpc.net/problem/17351)  
+[17498 폴짝 게임: 골드5](https://www.acmicpc.net/problem/17498)  
 [19621 회의실 배정 2: 실버2](https://www.acmicpc.net/problem/19621)  
 [19622 회의실 배정 3: 실버2](https://www.acmicpc.net/problem/19622)  
 [20162 간식 파티: 실버2](https://www.acmicpc.net/problem/20162)  
