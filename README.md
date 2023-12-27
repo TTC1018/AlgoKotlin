@@ -452,6 +452,7 @@
 [16936 나3곱2: 골드5](https://www.acmicpc.net/problem/16936)  
 [16943 숫자 재배치: 실버1](https://www.acmicpc.net/problem/16943)  
 [16987 계란으로 계란치기: 골드5](https://www.acmicpc.net/problem/16987)  
+[17089 세 친구: 골드5](https://www.acmicpc.net/problem/17089)  
 [17281 ⚾: 골드4](https://www.acmicpc.net/problem/17281)  
 [17359 전구 길만 걷자: 실버2](https://www.acmicpc.net/problem/17359)  
 [17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
