@@ -485,6 +485,7 @@
 [17503 맥주 축제: 실버1](https://www.acmicpc.net/problem/17503)  
 [19640 화장실의 규칙: 골드4](https://www.acmicpc.net/problem/19640)  
 [22867 종점: 골드5](https://www.acmicpc.net/problem/22867)  
+[25393 교집합 만들기: 골드5](https://www.acmicpc.net/problem/25393)  
 [28107 회전초밥: 실버1](https://www.acmicpc.net/problem/28107)  
 
 </div>
