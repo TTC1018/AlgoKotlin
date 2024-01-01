@@ -432,6 +432,7 @@
 [2210 숫자판 점프: 실버2](https://www.acmicpc.net/problem/2210)  
 [2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
+[3980 선발 명단: 골드5](https://www.acmicpc.net/problem/3980)  
 [6987 월드컵: 골드4](https://www.acmicpc.net/problem/6987)  
 [8973 수학 공책: 골드5](https://www.acmicpc.net/problem/8973)  
 [9335 소셜 광고: 실버2](https://www.acmicpc.net/problem/9335)  
