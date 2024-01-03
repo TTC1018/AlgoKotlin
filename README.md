@@ -532,6 +532,7 @@
 <div markdown="1">
 
 [2790 F7: 실버2](https://www.acmicpc.net/problem/2790)  
+[7983 내일 할거야: 골드5](https://www.acmicpc.net/problem/7983)  
 [11067 모노톤길: 골드5](https://www.acmicpc.net/problem/11067)  
 [13884 삭삽 정렬: 골드5](https://www.acmicpc.net/problem/13884)  
 [18230 2xN 예쁜 타일링: 실버1](https://www.acmicpc.net/problem/18230)    
