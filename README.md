@@ -551,6 +551,7 @@
 [2776 암기왕: 실버4](https://www.acmicpc.net/problem/2776)  
 [17092 색칠 공부: 골드4](https://www.acmicpc.net/problem/17092)  
 [27964 콰트로치즈피자: 실버5](https://www.acmicpc.net/problem/27964)  
+[30105 아즈버의 이빨 자국: 골드5](https://www.acmicpc.net/problem/30105)  
 
 
 </div>
