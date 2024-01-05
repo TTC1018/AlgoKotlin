@@ -598,6 +598,7 @@
 [12892 생일 선물: 골드4](https://www.acmicpc.net/problem/12892)  
 [14246 K보다 큰 구간: 실버2](https://www.acmicpc.net/problem/14246)  
 [14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)  
+[14921 용액 합성하기: 골드5](https://www.acmicpc.net/problem/14921)  
 [16472 고냥이: 골드4](https://www.acmicpc.net/problem/16472)  
 [20922 겹치는 건 싫어: 실버1](https://www.acmicpc.net/problem/20922)  
 
