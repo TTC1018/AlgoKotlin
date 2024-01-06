@@ -461,6 +461,7 @@
 [17281 ⚾: 골드4](https://www.acmicpc.net/problem/17281)  
 [17359 전구 길만 걷자: 실버2](https://www.acmicpc.net/problem/17359)  
 [17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
+[18231 파괴된 도시: 골드5](https://www.acmicpc.net/problem/18231)  
 [18290 NM과 K (1): 실버1](https://www.acmicpc.net/problem/18290)  
 [19942 다이어트: 골드5](https://www.acmicpc.net/problem/19942)  
 [19949 영재의 시험: 실버2](https://www.acmicpc.net/problem/19949)  
