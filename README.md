@@ -321,6 +321,7 @@
 
 [1074 Z: 실버1](https://www.acmicpc.net/problem/1074)  
 [1992 쿼드트리: 실버1](https://www.acmicpc.net/problem/1992)  
+[4779 칸토어 집합: 실버3](https://www.acmicpc.net/problem/4779)  
 [5904 Moo 게임: 골드5](https://www.acmicpc.net/problem/5904)  
 [16974 레벨 햄버거: 실버1](https://www.acmicpc.net/problem/16974)  
 
