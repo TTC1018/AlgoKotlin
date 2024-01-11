@@ -28,6 +28,7 @@
 [2374 같은 수 만들기: 골드4](https://www.acmicpc.net/problem/2374)  
 [2405 세 수, 두 M: 골드4](https://www.acmicpc.net/problem/2405)  
 [2697 다음수 구하기: 실버2](https://www.acmicpc.net/problem/2697)  
+[2831 댄스 파티: 골드4](https://www.acmicpc.net/problem/2831)  
 [2872 우리집엔 도서관이 있어: 실버2](https://www.acmicpc.net/problem/2872)  
 [3216 다운로드: 실버2](https://www.acmicpc.net/problem/3216)  
 [4055 파티가 좋아 파티가 좋아: 골드5](https://www.acmicpc.net/problem/4055)  
