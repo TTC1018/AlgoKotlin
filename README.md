@@ -325,6 +325,7 @@
 [4779 칸토어 집합: 실버3](https://www.acmicpc.net/problem/4779)  
 [5904 Moo 게임: 골드5](https://www.acmicpc.net/problem/5904)  
 [16974 레벨 햄버거: 실버1](https://www.acmicpc.net/problem/16974)  
+[24460 특별상이라도 받고 싶어: 실버3](https://www.acmicpc.net/problem/24460)  
 
 </div>
 </details>
