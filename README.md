@@ -215,6 +215,7 @@
 [10571 다이아몬드: 실버1](https://www.acmicpc.net/problem/10571)  
 [11909 배열 탈출: 골드5](https://www.acmicpc.net/problem/11909)  
 [11985 오렌지 출하: 골드4](https://www.acmicpc.net/problem/11985)  
+[13910 개업: 골드5](https://www.acmicpc.net/problem/13910)  
 [14231 박스 포장: 실버2](https://www.acmicpc.net/problem/14231)  
 [14585 사수빈탕: 실버1](https://www.acmicpc.net/problem/14585)  
 [14925 목장 건설하기: 골드4](https://www.acmicpc.net/problem/14925)  
