@@ -49,6 +49,7 @@
 [26075 곰곰아 선 넘지마: 골드4](https://www.acmicpc.net/problem/26075)  
 [26648 물정수열: 실버1](https://www.acmicpc.net/problem/26648)  
 [28015 영역 색칠: 실버2](https://www.acmicpc.net/problem/28015)  
+[30646 최대 합 순서쌍의 개수: 골드5](https://www.acmicpc.net/problem/30646)  
 
 </div>
 </details>
