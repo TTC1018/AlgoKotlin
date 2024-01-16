@@ -33,6 +33,7 @@
 [3216 다운로드: 실버2](https://www.acmicpc.net/problem/3216)  
 [4055 파티가 좋아 파티가 좋아: 골드5](https://www.acmicpc.net/problem/4055)  
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
+[11918 정전: 골드4](https://www.acmicpc.net/problem/11918)  
 [12970 AB: 골드4](https://www.acmicpc.net/problem/12970)  
 [14247 나무 자르기: 실버2 ⚠️](https://www.acmicpc.net/problem/14247)  
 [15553 난로: 골드5](https://www.acmicpc.net/problem/15553)  
