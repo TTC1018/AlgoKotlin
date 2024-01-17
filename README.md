@@ -317,6 +317,7 @@
 [17352 여러분의 다리가 되어 드리겠습니다!: 골드5](https://www.acmicpc.net/problem/17352)  
 [18769 그리드 네트워크: 골드4](https://www.acmicpc.net/problem/18769)  
 [20040 사이클 게임: 골드4](https://www.acmicpc.net/problem/20040)  
+[20955 민서의 응급 수술: 골드4](https://www.acmicpc.net/problem/20955)  
 [24542 튜터;튜티 관계의 수: 실버1](https://www.acmicpc.net/problem/24542)  
 
 </div>
