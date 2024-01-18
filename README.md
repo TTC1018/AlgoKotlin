@@ -610,6 +610,7 @@
 [1253 좋다: 골드4](https://www.acmicpc.net/problem/1253)  
 [2467 용액: 골드5](https://www.acmicpc.net/problem/2467)  
 [2470 두 용액: 골드5](https://www.acmicpc.net/problem/2470)  
+[3649 로봇 프로젝트: 골드5](https://www.acmicpc.net/problem/3649)  
 [6137 문자열 생성: 골드4](https://www.acmicpc.net/problem/6137)  
 [6503 망가진 키보드: 실버1](https://www.acmicpc.net/problem/6503)  
 [12892 생일 선물: 골드4](https://www.acmicpc.net/problem/12892)  
