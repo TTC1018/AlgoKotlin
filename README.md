@@ -264,6 +264,7 @@
 [1599 민식어: 골드5](https://www.acmicpc.net/problem/1599)  
 [1897 토달기: 골드5](https://www.acmicpc.net/problem/1897)  
 [2179 비슷한 단어: 골드4](https://www.acmicpc.net/problem/2179)  
+[2195 문자열 복사: 골드5](https://www.acmicpc.net/problem/2195)  
 [2870 수학숙제: 실버4](https://www.acmicpc.net/problem/2870)  
 [3107 IPv6: 골드5](https://www.acmicpc.net/problem/3107)  
 [4889 안정적인 문자열: 실버1](https://www.acmicpc.net/problem/4889)  
