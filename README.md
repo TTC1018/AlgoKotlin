@@ -569,6 +569,16 @@
 </details>
 
 <details>
+<summary>조합</summary>
+<div markdown="1">
+
+[17471 게리맨더링: 골드4](https://www.acmicpc.net/problem/17471)  
+
+
+</div>
+</details>
+
+<details>
 <summary>집합</summary>
 <div markdown="1">
 
