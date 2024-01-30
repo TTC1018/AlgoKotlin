@@ -453,6 +453,7 @@
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [3980 선발 명단: 골드5](https://www.acmicpc.net/problem/3980)  
 [6987 월드컵: 골드4](https://www.acmicpc.net/problem/6987)  
+[8901 화학 제품: 골드5](https://www.acmicpc.net/problem/8901)  
 [8973 수학 공책: 골드5](https://www.acmicpc.net/problem/8973)  
 [9335 소셜 광고: 실버2](https://www.acmicpc.net/problem/9335)  
 [9763 마을의 친밀도: 골드5](https://www.acmicpc.net/problem/9763)  
