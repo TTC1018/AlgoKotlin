@@ -7,6 +7,15 @@
 <img src="https://user-images.githubusercontent.com/39405316/194695477-aab47732-394f-458b-8c72-ad444d094a29.png" width=500>
 
 <details>
+<summary>게임 이론</summary>
+<div markdown="1">
+
+[9659 돌 게임 5: 실버3](https://www.acmicpc.net/problem/9659)  
+
+</div>
+</details>
+
+<details>
 <summary>그리디 알고리즘</summary>
 <div markdown="1">
 
