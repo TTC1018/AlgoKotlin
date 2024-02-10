@@ -154,6 +154,7 @@
 [23835 어떤 우유의 배달목록 (Easy): 골드4](https://www.acmicpc.net/problem/23835)  
 [24446 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)  
 [25416 빠른 숫자 탐색: 실버2](https://www.acmicpc.net/problem/25416)  
+[25512 트리를 간단하게 색칠하는 최소 비용: 실버1](https://www.acmicpc.net/problem/25512)  
 [25601 자바의 형변환: 실버1](https://www.acmicpc.net/problem/25601)  
 [27211 도넛 행성: 골드5](https://www.acmicpc.net/problem/27211)  
 [27737 버섯 농장: 실버1](https://www.acmicpc.net/problem/27737)  
