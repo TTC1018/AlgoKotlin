@@ -276,6 +276,15 @@
 </details>
 
 <details>
+<summary>많은 조건 분기</summary>
+<div markdown="1">
+
+[23252 블록: 실버2](https://www.acmicpc.net/problem/23252)  
+
+</div>
+</details>
+
+<details>
 <summary>문자열</summary>
 <div markdown="1">
 
