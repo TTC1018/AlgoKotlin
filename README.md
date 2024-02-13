@@ -604,6 +604,7 @@
 [23740 버스 노선 개편하기: 골드5](https://www.acmicpc.net/problem/23740)  
 [27922 .현대모비스 입사 프로젝트: 실버3](https://www.acmicpc.net/problem/27922)  
 [30022 행사 준비: 실버2](https://www.acmicpc.net/problem/30022)  
+[30619 내 집 마련하기: 실버2](https://www.acmicpc.net/problem/30619)  
 
 </div>
 </details>
