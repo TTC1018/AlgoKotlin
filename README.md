@@ -659,6 +659,7 @@
 [20956 아이스크림 도둑 지호: 골드4](https://www.acmicpc.net/problem/20956)  
 [22234 가희와 은행: 골드5](https://www.acmicpc.net/problem/22234)  
 [27497 알파벳 블록: 실버2](https://www.acmicpc.net/problem/27497)  
+[29813 최애의 팀원: 실버3](https://www.acmicpc.net/problem/29813)  
 
 </div>
 </details>
