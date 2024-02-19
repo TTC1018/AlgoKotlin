@@ -681,6 +681,7 @@
 [14921 용액 합성하기: 골드5](https://www.acmicpc.net/problem/14921)  
 [16472 고냥이: 골드4](https://www.acmicpc.net/problem/16472)  
 [20922 겹치는 건 싫어: 실버1](https://www.acmicpc.net/problem/20922)  
+[28353 고양이 카페: 실버3](https://www.acmicpc.net/problem/28353)  
 
 
 </div>
