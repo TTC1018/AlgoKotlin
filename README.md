@@ -107,6 +107,7 @@
 
 [1012 유기농 배추: 실버2](https://www.acmicpc.net/problem/1012)  
 [1240 노드사이의 거리: 골드5](https://www.acmicpc.net/problem/1240)  
+[1261 알고스팟: 골드4](https://www.acmicpc.net/problem/1261)  
 [1326 폴짝폴짝: 실버2](https://www.acmicpc.net/problem/1326)  
 [1430 공격: 골드4](https://www.acmicpc.net/problem/1430)  
 [1600 말이 되고픈 연숭이: 골드3](https://www.acmicpc.net/problem/1600)  
