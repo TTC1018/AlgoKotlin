@@ -108,6 +108,7 @@
 
 [1012 유기농 배추: 실버2](https://www.acmicpc.net/problem/1012)  
 [1240 노드사이의 거리: 골드5](https://www.acmicpc.net/problem/1240)  
+[1261 알고스팟: 골드4](https://www.acmicpc.net/problem/1261)  
 [1326 폴짝폴짝: 실버2](https://www.acmicpc.net/problem/1326)  
 [1430 공격: 골드4](https://www.acmicpc.net/problem/1430)  
 [1600 말이 되고픈 연숭이: 골드3](https://www.acmicpc.net/problem/1600)  
@@ -198,6 +199,7 @@
 [25708 만남의 광장: 실버1](https://www.acmicpc.net/problem/25708)  
 [25947 선물할인: 실버1](https://www.acmicpc.net/problem/25947)  
 [27210 신을 모시는 사당: 골드5](https://www.acmicpc.net/problem/27210)  
+[27496 발머의 피크 이론: 실버3](https://www.acmicpc.net/problem/27496)  
 [28070 유니의 편지 쓰기: 골드5](https://www.acmicpc.net/problem/28070)  
 [28449 누가 이길까: 골드5](https://www.acmicpc.net/problem/28449)  
 
@@ -306,6 +308,7 @@
 [5636 소수 부분 문자열: 실버1](https://www.acmicpc.net/problem/5636)  
 [5670 휴대폰 자판: 플래티넘4](https://www.acmicpc.net/problem/5670)  
 [6443 애너그램: 골드5](https://www.acmicpc.net/problem/6443)  
+[6581 HTML: 골드5](https://www.acmicpc.net/problem/6581)  
 [9241 바이러스 복제: 골드5](https://www.acmicpc.net/problem/9241)  
 [9252 LCS 2: 골드4](https://www.acmicpc.net/problem/9252)  
 [9519 졸려: 골드5](https://www.acmicpc.net/problem/9519)  
