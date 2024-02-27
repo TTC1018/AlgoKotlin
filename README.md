@@ -55,6 +55,7 @@
 [17262 팬덤이 넘쳐흘러: 실버4](https://www.acmicpc.net/problem/17262)  
 [17828 문자열 화폐: 골드5](https://www.acmicpc.net/problem/17828)  
 [19582 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여: 골드3](https://www.acmicpc.net/problem/19582)  
+[20300 서강근육맨: 실버3](https://www.acmicpc.net/problem/20300)  
 [20310 타노스: 실버3](https://www.acmicpc.net/problem/20310)  
 [20311 화학 실험: 골드5](https://www.acmicpc.net/problem/20311)  
 [23322 초콜릿 뺏어 먹기: 실버2](https://www.acmicpc.net/problem/23322)  
