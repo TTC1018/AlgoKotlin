@@ -486,6 +486,7 @@
 [1342 행운의 문자열: 실버1](https://www.acmicpc.net/problem/1342)  
 [1405 미친 로봇: 골드4](https://www.acmicpc.net/problem/1405)  
 [1421 나무꾼 이다솜: 실버1](https://www.acmicpc.net/problem/1421)  
+[1503 세 수 고르기: 실버2](https://www.acmicpc.net/problem/1503)  
 [1711 직각삼각형: 골드5](https://www.acmicpc.net/problem/1711)  
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
 [1821 수들의 합 6: 실버1](https://www.acmicpc.net/problem/1821)  
