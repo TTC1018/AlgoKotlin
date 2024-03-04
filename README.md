@@ -168,6 +168,7 @@
 [25601 자바의 형변환: 실버1](https://www.acmicpc.net/problem/25601)  
 [27211 도넛 행성: 골드5](https://www.acmicpc.net/problem/27211)  
 [27737 버섯 농장: 실버1](https://www.acmicpc.net/problem/27737)  
+[28256 초콜릿 보관함: 실버2](https://www.acmicpc.net/problem/28256)  
 [28423 게임: 골드4](https://www.acmicpc.net/problem/28423)  
 
 </div>
