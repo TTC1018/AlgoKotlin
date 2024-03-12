@@ -618,6 +618,7 @@
 [17124 두 개의 배열: 실버3](https://www.acmicpc.net/problem/17124)  
 [18230 2xN 예쁜 타일링: 실버1](https://www.acmicpc.net/problem/18230)    
 [18248 제야의 종: 실버2](https://www.acmicpc.net/problem/18248)  
+[20920 영단어 암기는 괴로워: 실버3](https://www.acmicpc.net/problem/20920)  
 [23279 서열 사회: 실버2](https://www.acmicpc.net/problem/23279)  
 [23740 버스 노선 개편하기: 골드5](https://www.acmicpc.net/problem/23740)  
 [27922 .현대모비스 입사 프로젝트: 실버3](https://www.acmicpc.net/problem/27922)  
