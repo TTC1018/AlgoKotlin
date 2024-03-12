@@ -611,6 +611,7 @@
 
 [2107 포함하는 구간: 골드5](https://www.acmicpc.net/problem/2107)  
 [2790 F7: 실버2](https://www.acmicpc.net/problem/2790)  
+[2910 빈도 정렬: 실버3](https://www.acmicpc.net/problem/2910)  
 [4159 알래스카: 실버3](https://www.acmicpc.net/problem/4159)  
 [7983 내일 할거야: 골드5](https://www.acmicpc.net/problem/7983)  
 [11067 모노톤길: 골드5](https://www.acmicpc.net/problem/11067)  
@@ -622,7 +623,7 @@
 [20920 영단어 암기는 괴로워: 실버3](https://www.acmicpc.net/problem/20920)  
 [23279 서열 사회: 실버2](https://www.acmicpc.net/problem/23279)  
 [23740 버스 노선 개편하기: 골드5](https://www.acmicpc.net/problem/23740)  
-[24060 알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)  
+[24060 알고리즘 수업 - 병합 정렬 1: 실버3](https://www.acmicpc.net/problem/24060)  
 [27922 .현대모비스 입사 프로젝트: 실버3](https://www.acmicpc.net/problem/27922)  
 [30022 행사 준비: 실버2](https://www.acmicpc.net/problem/30022)  
 [30619 내 집 마련하기: 실버2](https://www.acmicpc.net/problem/30619)  
