@@ -592,6 +592,7 @@
 [7795 먹을 것인가 먹힐 것인가: 실버3](https://www.acmicpc.net/problem/7795)  
 [8983 사냥꾼: 골드4](https://www.acmicpc.net/problem/8983)  
 [13397 구간 나누기 2: 골드4](https://www.acmicpc.net/problem/13397)  
+[13720 이상한 술집: 실버3](https://www.acmicpc.net/problem/13702)  
 [14575 뒤풀이: 실버1](https://www.acmicpc.net/problem/14575)  
 [14627 파닭파닭: 실버2](https://www.acmicpc.net/problem/14627)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
