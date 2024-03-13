@@ -63,6 +63,7 @@
 [23559 밥: 골드5](https://www.acmicpc.net/problem/23559)  
 [24023 아기 홍윤: 골드5](https://www.acmicpc.net/problem/24023)  
 [24524 아름다운 문자열: 골드5](https://www.acmicpc.net/problem/24524)  
+[25045 비즈마켓: 실버3](https://www.acmicpc.net/problem/25045)  
 [25381 ABBC: 골드4](https://www.acmicpc.net/problem/25381)  
 [26075 곰곰아 선 넘지마: 골드4](https://www.acmicpc.net/problem/26075)  
 [26648 물정수열: 실버1](https://www.acmicpc.net/problem/26648)  
