@@ -502,6 +502,7 @@
 [2210 숫자판 점프: 실버2](https://www.acmicpc.net/problem/2210)  
 [2239 스도쿠: 골드4](https://www.acmicpc.net/problem/14719)  
 [2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
+[2548 대표 자연수: 실버3](https://www.acmicpc.net/problem/2548)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [3980 선발 명단: 골드5](https://www.acmicpc.net/problem/3980)  
 [6987 월드컵: 골드4](https://www.acmicpc.net/problem/6987)  
