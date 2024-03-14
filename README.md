@@ -83,6 +83,7 @@
 [1148 단어 만들기: 골드5](https://www.acmicpc.net/problem/1148)  
 [1411 비슷한 단어: 실버2](https://www.acmicpc.net/problem/1411)  
 [2115 갤러리: 골드5](https://www.acmicpc.net/problem/2115)  
+[2371 파일 구별하기: 실버3](https://www.acmicpc.net/problem/2371)  
 [2573 빙산: 골드4](https://www.acmicpc.net/problem/2573)  
 [2638 치즈: 골드3](https://www.acmicpc.net/problem/2638)  
 [3961 터치스크린 키보드: 실버2](https://www.acmicpc.net/problem/3961)  
