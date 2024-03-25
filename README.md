@@ -529,6 +529,7 @@
 [14620 꽃길: 실버2](https://www.acmicpc.net/problem/14620)  
 [15566 개구리 1: 실버1](https://www.acmicpc.net/problem/15566)  
 [15658 연산자 끼워넣기 (2): 실버2](https://www.acmicpc.net/problem/15658)  
+[15661 링크와 스타트: 골드5](https://www.acmicpc.net/problem/15661)  
 [15644 N과 M(10): 실버2](https://www.acmicpc.net/problem/15664)  
 [15684 사다리 조작: 골드3](https://www.acmicpc.net/problem/15684)  
 [15686 치킨 배달: 골드5](https://www.acmicpc.net/problem/15686)  
