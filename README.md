@@ -216,6 +216,7 @@
 [27496 발머의 피크 이론: 실버3](https://www.acmicpc.net/problem/27496)  
 [28070 유니의 편지 쓰기: 골드5](https://www.acmicpc.net/problem/28070)  
 [28449 누가 이길까: 골드5](https://www.acmicpc.net/problem/28449)  
+[29718 줄줄이 박수: 실버3](https://www.acmicpc.net/problem/29718)  
 
 </div>
 </details>
