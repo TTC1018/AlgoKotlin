@@ -217,6 +217,7 @@
 [27496 발머의 피크 이론: 실버3](https://www.acmicpc.net/problem/27496)  
 [28070 유니의 편지 쓰기: 골드5](https://www.acmicpc.net/problem/28070)  
 [28449 누가 이길까: 골드5](https://www.acmicpc.net/problem/28449)  
+[29718 줄줄이 박수: 실버3](https://www.acmicpc.net/problem/29718)  
 
 </div>
 </details>
@@ -331,6 +332,7 @@
 [9519 졸려: 골드5](https://www.acmicpc.net/problem/9519)  
 [14369 전화번호 수수께끼 (Small): 골드5](https://www.acmicpc.net/problem/14369)  
 [14725 개미굴: 골드3](https://www.acmicpc.net/problem/14725)  
+[23304 아카라카: 실버2](https://www.acmicpc.net/problem/23304)  
 [30090 백신 개발: 실버1](https://www.acmicpc.net/problem/30090)  
 [30446 회문수: 실버2](https://www.acmicpc.net/problem/30446)  
 
@@ -342,6 +344,7 @@
 <div markdown="1">
 
 [1322 X와 K: 골드4](https://www.acmicpc.net/problem/1322)  
+[2877 4와 7: 골드5](https://www.acmicpc.net/problem/2877)  
 [13701 중복 제거: 골드4](https://www.acmicpc.net/problem/13701)  
 [14569 시간표 짜기: 실버2](https://www.acmicpc.net/problem/14569)  
 [15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)  
@@ -510,6 +513,7 @@
 [2239 스도쿠: 골드4](https://www.acmicpc.net/problem/14719)  
 [2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
 [2548 대표 자연수: 실버3](https://www.acmicpc.net/problem/2548)  
+[2922 즐거운 단어: 골드5](https://www.acmicpc.net/problem/2922)  
 [2992 크면서 작은 수: 실버3](https://www.acmicpc.net/problem/2992)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [3980 선발 명단: 골드5](https://www.acmicpc.net/problem/3980)  
