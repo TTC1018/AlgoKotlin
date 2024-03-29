@@ -89,6 +89,7 @@
 [2638 치즈: 골드3](https://www.acmicpc.net/problem/2638)  
 [3961 터치스크린 키보드: 실버2](https://www.acmicpc.net/problem/3961)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
+[4881 자리수의 제곱: 실버4](https://www.acmicpc.net/problem/4881)  
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
 [5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
