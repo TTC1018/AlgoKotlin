@@ -523,6 +523,7 @@
 [8901 화학 제품: 골드5](https://www.acmicpc.net/problem/8901)  
 [8973 수학 공책: 골드5](https://www.acmicpc.net/problem/8973)  
 [9335 소셜 광고: 실버2](https://www.acmicpc.net/problem/9335)  
+[9518 로마 카톨릭 미사: 실버2](https://www.acmicpc.net/problem/9518)  
 [9763 마을의 친밀도: 골드5](https://www.acmicpc.net/problem/9763)  
 [10472 십자뒤집기: 실버1](https://www.acmicpc.net/problem/10472)  
 [10881 프로도의 선물 포장: 골드4](https://www.acmicpc.net/problem/10881)  
