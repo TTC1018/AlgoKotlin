@@ -560,6 +560,7 @@
 [24268 2022는 무엇이 특별할까?: 실버1](https://www.acmicpc.net/problem/24268)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
 [25585 86-에이티식스-1: 골드5](https://www.acmicpc.net/problem/25585)  
+[25602 캔 주기: 실버1](https://www.acmicpc.net/problem/25602)  
 [27967 고추장 괄호 문자열: 실버2](https://www.acmicpc.net/problem/27967)  
 [30237 합집합: 골드5](https://www.acmicpc.net/problem/30237)  
 
