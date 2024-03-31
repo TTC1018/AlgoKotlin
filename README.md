@@ -39,6 +39,7 @@
 [2697 다음수 구하기: 실버2](https://www.acmicpc.net/problem/2697)  
 [2831 댄스 파티: 골드4](https://www.acmicpc.net/problem/2831)  
 [2872 우리집엔 도서관이 있어: 실버2](https://www.acmicpc.net/problem/2872)  
+[2885 초콜릿 식사: 실버2](https://www.acmicpc.net/problem/2885)  
 [3088 화분 부수기: 실버3](https://www.acmicpc.net/problem/3088)  
 [3216 다운로드: 실버2](https://www.acmicpc.net/problem/3216)  
 [4055 파티가 좋아 파티가 좋아: 골드5](https://www.acmicpc.net/problem/4055)  
