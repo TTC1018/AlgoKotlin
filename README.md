@@ -642,6 +642,7 @@
 [4159 알래스카: 실버3](https://www.acmicpc.net/problem/4159)  
 [7983 내일 할거야: 골드5](https://www.acmicpc.net/problem/7983)  
 [11067 모노톤길: 골드5](https://www.acmicpc.net/problem/11067)  
+[13274 수열: 실버1](https://www.acmicpc.net/problem/13274)  
 [13884 삭삽 정렬: 골드5](https://www.acmicpc.net/problem/13884)  
 [16112 5차 전직: 실버2](https://www.acmicpc.net/problem/16112)  
 [17124 두 개의 배열: 실버3](https://www.acmicpc.net/problem/17124)  
