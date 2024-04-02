@@ -514,6 +514,7 @@
 [1747 소수&팰린드롬: 실버1](https://www.acmicpc.net/problem/1747)  
 [1821 수들의 합 6: 실버1](https://www.acmicpc.net/problem/1821)  
 [1941 소문난 칠공주: 골드3](https://www.acmicpc.net/problem/1941)  
+[2190 점 고르기2: 골드4](https://www.acmicpc.net/problem/2190)  
 [2210 숫자판 점프: 실버2](https://www.acmicpc.net/problem/2210)  
 [2239 스도쿠: 골드4](https://www.acmicpc.net/problem/14719)  
 [2531 회전 초밥: 실버1](https://www.acmicpc.net/problem/2531)  
