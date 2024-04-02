@@ -696,6 +696,7 @@
 [1865 웜홀: 골드3](https://www.acmicpc.net/problem/1865)  
 [2660 회장뽑기: 골드5](https://www.acmicpc.net/problem/2660)  
 [4485 녹색 옷 입은 애가 젤다지?: 골드4](https://www.acmicpc.net/problem/4485)  
+[11265 끝나지 않는 파티: 골드5](https://www.acmicpc.net/problem/11265)  
 [11404 플로이드: 골드4](https://www.acmicpc.net/problem/11404)  
 [11657 타임머신: 골드4](https://www.acmicpc.net/problem/11657)  
 [12908 텔레포트 3: 골드5](https://www.acmicpc.net/problem/12908)  
