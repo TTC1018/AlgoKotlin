@@ -23,6 +23,7 @@
 [1092 배: 골드5](https://www.acmicpc.net/problem/1092)  
 [1135 뉴스 전하기: 골드2](https://www.acmicpc.net/problem/1135)  
 [1339 단어 수학: 골드4](https://www.acmicpc.net/problem/1339)  
+[1448 삼각형 만들기: 실버3](https://www.acmicpc.net/problem/1448)  
 [1455 뒤집기 II: 실버1](https://www.acmicpc.net/problem/1455)  
 [1461 도서관: 골드5](https://www.acmicpc.net/problem/1461)  
 [1541 잃어버린 괄호: 실버2](https://www.acmicpc.net/problem/1541)  
