@@ -318,6 +318,7 @@
 <summary>문자열</summary>
 <div markdown="1">
 
+[1334 다음 팰린드롬 수: 골드5](https://www.acmicpc.net/problem/1334)  
 [1474 밑 줄: 실버1](https://www.acmicpc.net/problem/1474)  
 [1501 영어읽기: 골드5](https://www.acmicpc.net/problem/1501)  
 [1512 주기문으로 바꾸기: 골드5](https://www.acmicpc.net/problem/1512)  
