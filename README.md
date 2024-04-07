@@ -430,6 +430,7 @@
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
+[16502 그녀를 찾아서: 실버3](https://www.acmicpc.net/problem/16502)  
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
 
