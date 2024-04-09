@@ -661,6 +661,7 @@
 [24060 알고리즘 수업 - 병합 정렬 1: 실버3](https://www.acmicpc.net/problem/24060)  
 [27922 .현대모비스 입사 프로젝트: 실버3](https://www.acmicpc.net/problem/27922)  
 [30022 행사 준비: 실버2](https://www.acmicpc.net/problem/30022)  
+[30205 전역 임무: 실버2](https://www.acmicpc.net/problem/30205)  
 [30619 내 집 마련하기: 실버2](https://www.acmicpc.net/problem/30619)  
 
 </div>
