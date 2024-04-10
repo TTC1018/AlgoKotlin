@@ -526,6 +526,7 @@
 [2922 즐거운 단어: 골드5](https://www.acmicpc.net/problem/2922)  
 [2992 크면서 작은 수: 실버3](https://www.acmicpc.net/problem/2992)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
+[3671 산업 스파이의 편지: 골드4](https://www.acmicpc.net/problem/3671)  
 [3980 선발 명단: 골드5](https://www.acmicpc.net/problem/3980)  
 [6987 월드컵: 골드4](https://www.acmicpc.net/problem/6987)  
 [7696 반복하지 않는 수: 실버3](https://www.acmicpc.net/problem/7696)  
