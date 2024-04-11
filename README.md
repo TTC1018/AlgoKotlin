@@ -106,6 +106,7 @@
 [17144 미세먼지 안녕!: 골드4](https://www.acmicpc.net/problem/17144)  
 [20006 랭킹전 대기열: 실버2](https://www.acmicpc.net/problem/20006)  
 [20056 마법사 상어와 파이어볼: 골드4](https://www.acmicpc.net/problem/20056)  
+[20165 인내의 도미노 장인 호석: 골드5](https://www.acmicpc.net/problem/20165)  
 [20207 달력: 골드5](https://www.acmicpc.net/problem/20207)  
 [26597 이 사람 왜 이렇게 1122를 좋아함?: 실버2](https://www.acmicpc.net/problem/26597)  
 [30023 전구 상태 바꾸기: 골드5](https://www.acmicpc.net/problem/30023)  
