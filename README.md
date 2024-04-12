@@ -185,6 +185,7 @@
 [27737 버섯 농장: 실버1](https://www.acmicpc.net/problem/27737)  
 [28256 초콜릿 보관함: 실버2](https://www.acmicpc.net/problem/28256)  
 [28423 게임: 골드4](https://www.acmicpc.net/problem/28423)  
+[31575 도시와 비트코인: 실버3](https://www.acmicpc.net/problem/31575)  
 
 </div>
 </details>
