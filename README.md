@@ -51,6 +51,7 @@
 [12970 AB: 골드4](https://www.acmicpc.net/problem/12970)  
 [14247 나무 자르기: 실버2 ⚠️](https://www.acmicpc.net/problem/14247)  
 [15553 난로: 골드5](https://www.acmicpc.net/problem/15553)  
+[15729 방탈출: 실버2](https://www.acmicpc.net/problem/15729)  
 [15889 호 안에 수류탄이야!!: 실버3](https://www.acmicpc.net/problem/15889)  
 [15904 UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904)
 [16206 롤케이크: 실버1](https://www.acmicpc.net/problem/16206)  
