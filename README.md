@@ -435,6 +435,7 @@
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [16502 그녀를 찾아서: 실버3](https://www.acmicpc.net/problem/16502)  
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
+[17425 약수의 합: 골드4](https://www.acmicpc.net/problem/17425)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
 
 </div>
