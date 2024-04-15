@@ -484,6 +484,7 @@
 <summary>애드 혹</summary>
 <div markdown="1">
 
+[1570 오세준: 골드4](https://www.acmicpc.net/problem/1570)  
 [12947 트리 만들기: 골드4](https://www.acmicpc.net/problem/12947)  
 [12968 방문: 실버2](https://www.acmicpc.net/problem/12968)  
 [21605 아름다운 수열: 실버1](https://www.acmicpc.net/problem/21605)  
