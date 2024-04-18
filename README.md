@@ -433,6 +433,7 @@
 [1565 수학: 골드4](https://www.acmicpc.net/problem/1565)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
+[3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [16502 그녀를 찾아서: 실버3](https://www.acmicpc.net/problem/16502)  
