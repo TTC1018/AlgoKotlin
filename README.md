@@ -696,6 +696,7 @@
 
 [2776 암기왕: 실버4](https://www.acmicpc.net/problem/2776)  
 [3018 캠프파이어: 실버3](https://www.acmicpc.net/problem/3018)  
+[9536 여우는 어떻게 울지?: 실버3](https://www.acmicpc.net/problem/9536)  
 [13414 수강신청: 실버3](https://www.acmicpc.net/problem/13414)  
 [17092 색칠 공부: 골드4](https://www.acmicpc.net/problem/17092)  
 [17430 가로등: 골드5](https://www.acmicpc.net/problem/17430)  
