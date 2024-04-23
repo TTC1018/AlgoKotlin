@@ -136,6 +136,7 @@
 [2412 암벽 등반: 골드4](https://www.acmicpc.net/problem/2412)  
 [2665 미로만들기: 골드4](https://www.acmicpc.net/problem/2665)  
 [2668 숫자고르기: 골드5](https://www.acmicpc.net/problem/2668)  
+[3055 탈출: 골드4](https://www.acmicpc.net/problem/3055)  
 [3182 한동이는 공부가 하기 싫어!: 실버3](https://www.acmicpc.net/problem/3182)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
 [5107 마니또: 실버1](https://www.acmicpc.net/problem/5107)  
