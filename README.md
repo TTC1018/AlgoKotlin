@@ -63,6 +63,7 @@
 [20310 타노스: 실버3](https://www.acmicpc.net/problem/20310)  
 [20311 화학 실험: 골드5](https://www.acmicpc.net/problem/20311)  
 [20928 걷는 건 귀찮아: 골드4](https://www.acmicpc.net/problem/20928)  
+[22981 휴먼 파이프라인: 골드5](https://www.acmicpc.net/problem/22981)  
 [23322 초콜릿 뺏어 먹기: 실버2](https://www.acmicpc.net/problem/23322)  
 [23559 밥: 골드5](https://www.acmicpc.net/problem/23559)  
 [24023 아기 홍윤: 골드5](https://www.acmicpc.net/problem/24023)  
