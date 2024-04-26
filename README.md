@@ -218,6 +218,7 @@
 [12841 정보대 등산: 실버2](https://www.acmicpc.net/problem/12841)  
 [12847 꿀 아르바이트: 실버3](https://www.acmicpc.net/problem/12847)  
 [14465 소가 길을 건너간 이유 5: 실버2](https://www.acmicpc.net/problem/14465)  
+[18866 젊은 날의 생이여: 골드4](https://www.acmicpc.net/problem/18866)  
 [19951 태상이의 훈련소 생활: 골드5](https://www.acmicpc.net/problem/19951)  
 [20002 사과나무: 골드5](https://www.acmicpc.net/problem/20002)  
 [20159 동작 그만. 밑장 빼기냐?: 골드4](https://www.acmicpc.net/problem/20159)  
