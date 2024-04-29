@@ -289,6 +289,7 @@
 [19622 회의실 배정 3: 실버2](https://www.acmicpc.net/problem/19622)  
 [20162 간식 파티: 실버2](https://www.acmicpc.net/problem/20162)  
 [20167 꿈틀꿈틀 호석 애벌레 - 기능성: 골드5](https://www.acmicpc.net/problem/20167)  
+[20951 유아와 곰두리차: 골드5](https://www.acmicpc.net/problem/20951)  
 [21555 빛의 돌 옮기기: 실버2](https://www.acmicpc.net/problem/21555)  
 [22857 가장 긴 짝수 연속한 부분 수열 (small): 실버2](https://www.acmicpc.net/problem/22857)  
 [22968 균형: 골드5](https://www.acmicpc.net/problem/22968)  
