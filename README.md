@@ -793,6 +793,15 @@
 </div>
 </details>
 
+<details>
+<summary>해 구성하기</summary>
+<div markdown="1">
+
+[2759 팬케이크 뒤집기: 골드4](https://www.acmicpc.net/problem/2759)  
+
+</div>
+</details>
+
 
 ## ✅ 카카오
 ### 2021 인턴십
