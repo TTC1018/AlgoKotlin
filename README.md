@@ -176,6 +176,7 @@
 [18232 텔레포트 정거장: 실버2](https://www.acmicpc.net/problem/18232)  
 [19538 루머: 골드4](https://www.acmicpc.net/problem/19538)  
 [19952 인성 문제 있어??: 골드4](https://www.acmicpc.net/problem/19952)  
+[20168 골목 대장 호석 - 기능성: 골드5](https://www.acmicpc.net/problem/20168)  
 [21735 눈덩이 굴리기: 실버3](https://www.acmicpc.net/problem/21735)  
 [21937 작업: 실버1](https://www.acmicpc.net/problem/21937)  
 [22353 항체 인식: 골드5](https://www.acmicpc.net/problem/22352)  
