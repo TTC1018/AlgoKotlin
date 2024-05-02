@@ -739,6 +739,7 @@
 <summary>큐</summary>
 <div markdown="1">
 
+[3078 좋은 친구: 골드4](https://www.acmicpc.net/problem/3078)  
 [14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
 [20956 아이스크림 도둑 지호: 골드4](https://www.acmicpc.net/problem/20956)  
 [22234 가희와 은행: 골드5](https://www.acmicpc.net/problem/22234)  
