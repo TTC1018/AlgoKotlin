@@ -64,6 +64,7 @@
 [20311 화학 실험: 골드5](https://www.acmicpc.net/problem/20311)  
 [20928 걷는 건 귀찮아: 골드4](https://www.acmicpc.net/problem/20928)  
 [22981 휴먼 파이프라인: 골드5](https://www.acmicpc.net/problem/22981)  
+[23254 나는 기말고사형 인간이야: 골드5](https://www.acmicpc.net/problem/23254)  
 [23322 초콜릿 뺏어 먹기: 실버2](https://www.acmicpc.net/problem/23322)  
 [23559 밥: 골드5](https://www.acmicpc.net/problem/23559)  
 [24023 아기 홍윤: 골드5](https://www.acmicpc.net/problem/24023)  
@@ -135,6 +136,7 @@
 [1987 알파벳: 골드4(DFS)](https://www.acmicpc.net/problem/1987)  
 [2206 벽 부수고 이동하기: 골드3](https://www.acmicpc.net/problem/2206)  
 [2251 물통: 골드5](https://www.acmicpc.net/problem/2251)  
+[2253 점프: 골드4](https://www.acmicpc.net/problem/2253)  
 [2310 어드벤처 게임: 골드4](https://www.acmicpc.net/problem/2310)  
 [2412 암벽 등반: 골드4](https://www.acmicpc.net/problem/2412)  
 [2458 키 순서: 골드4](https://www.acmicpc.net/problem/2458)  
@@ -739,6 +741,7 @@
 <summary>큐</summary>
 <div markdown="1">
 
+[3078 좋은 친구: 골드4](https://www.acmicpc.net/problem/3078)  
 [14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
 [20956 아이스크림 도둑 지호: 골드4](https://www.acmicpc.net/problem/20956)  
 [22234 가희와 은행: 골드5](https://www.acmicpc.net/problem/22234)  
