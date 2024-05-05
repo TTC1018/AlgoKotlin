@@ -672,6 +672,7 @@
 [4159 알래스카: 실버3](https://www.acmicpc.net/problem/4159)  
 [7983 내일 할거야: 골드5](https://www.acmicpc.net/problem/7983)  
 [10424 알고리즘 기말고사: 실버2](https://www.acmicpc.net/problem/10424)  
+[10975 데크 소트 2: 골드5](https://www.acmicpc.net/problem/10975)  
 [11067 모노톤길: 골드5](https://www.acmicpc.net/problem/11067)  
 [13274 수열: 실버1](https://www.acmicpc.net/problem/13274)  
 [13884 삭삽 정렬: 골드5](https://www.acmicpc.net/problem/13884)  
