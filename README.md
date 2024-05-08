@@ -169,6 +169,7 @@
 [16509 장군: 골드5](https://www.acmicpc.net/problem/16509)  
 [16197 두 동전: 골드4](https://www.acmicpc.net/problem/16197)  
 [16397 탈출: 골드4](https://www.acmicpc.net/problem/16397)  
+[16469 소년 점프: 골드4](https://www.acmicpc.net/problem/16469)  
 [16568 엔비스카의 영혼: 실버1](https://www.acmicpc.net/problem/16568)  
 [16928 뱀과 사다리 게임: 골드5](https://www.acmicpc.net/problem/16928)  
 [17129 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유: 실버1](https://www.acmicpc.net/problem/17129)  
