@@ -463,6 +463,7 @@
 <div markdown="1">
 
 [1406 에디터: 실버2](https://www.acmicpc.net/problem/1406)  
+[1622 압축: 골드5](https://www.acmicpc.net/problem/1662)  
 [2257 화학식량: 실버2](https://www.acmicpc.net/problem/2257)  
 [2504 괄호의 값: 실버1](https://www.acmicpc.net/problem/2504)  
 [2812 크게 만들기: 골드3](https://www.acmicpc.net/problem/2812)  
