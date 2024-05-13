@@ -457,6 +457,7 @@
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
 [17425 약수의 합: 골드4](https://www.acmicpc.net/problem/17425)  
 [18291 비요뜨의 징검다리 건너기: 골드5](https://www.acmicpc.net/problem/18291)  
+[26090 완전한 수열: 실버2](https://www.acmicpc.net/problem/26090)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
 
 </div>
