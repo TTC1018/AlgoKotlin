@@ -600,6 +600,7 @@
 [21315 카드 섞기: 골드5](https://www.acmicpc.net/problem/21315)  
 [23057 도전 숫자왕: 실버2](https://www.acmicpc.net/problem/23057)  
 [24268 2022는 무엇이 특별할까?: 실버1](https://www.acmicpc.net/problem/24268)  
+[25401 카드 바꾸기: 골드5](https://www.acmicpc.net/problem/25401)  
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
 [25585 86-에이티식스-1: 골드5](https://www.acmicpc.net/problem/25585)  
 [25602 캔 주기: 실버1](https://www.acmicpc.net/problem/25602)  
