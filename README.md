@@ -661,6 +661,7 @@
 [14627 파닭파닭: 실버2](https://www.acmicpc.net/problem/14627)  
 [16401 과자 나눠주기: 실버2](https://www.acmicpc.net/problem/16401)  
 [16434 드래곤 앤 던전: 골드4](https://www.acmicpc.net/problem/16434)  
+[16498 작은 벌점: 골드5](https://www.acmicpc.net/problem/16498)  
 [16564 히오스 프로게이머: 실버1](https://www.acmicpc.net/problem/16564)  
 [17179 케이크 자르기: 골드5](https://www.acmicpc.net/problem/17179)  
 [17245 서버실: 실버2](https://www.acmicpc.net/problem/17245)  
