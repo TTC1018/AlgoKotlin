@@ -694,6 +694,7 @@
 [18869 멀티버스 II: 골드5](https://www.acmicpc.net/problem/18869)  
 [20920 영단어 암기는 괴로워: 실버3](https://www.acmicpc.net/problem/20920)  
 [23279 서열 사회: 실버2](https://www.acmicpc.net/problem/23279)  
+[23330 거리의 합 2: 실버3](https://www.acmicpc.net/problem/23330)  
 [23740 버스 노선 개편하기: 골드5](https://www.acmicpc.net/problem/23740)  
 [23889 돌 굴러가유: 골드5](https://www.acmicpc.net/problem/23889)  
 [24060 알고리즘 수업 - 병합 정렬 1: 실버3](https://www.acmicpc.net/problem/24060)  
