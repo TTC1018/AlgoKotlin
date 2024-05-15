@@ -447,6 +447,7 @@
 [1241 머리 톡톡: 골드5](https://www.acmicpc.net/problem/1241)  
 [1364 울타리 치기: 골드4](https://www.acmicpc.net/problem/1364)  
 [1407 2로 몇 번 나누어질까: 골드4](https://www.acmicpc.net/problem/1407)  
+[1424 새 앨범: 골드5](https://www.acmicpc.net/problem/1424)  
 [1565 수학: 골드4](https://www.acmicpc.net/problem/1565)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
