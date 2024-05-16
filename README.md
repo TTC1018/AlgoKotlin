@@ -291,6 +291,7 @@
 [14231 박스 포장: 실버2](https://www.acmicpc.net/problem/14231)  
 [14585 사수빈탕: 실버1](https://www.acmicpc.net/problem/14585)  
 [14925 목장 건설하기: 골드4](https://www.acmicpc.net/problem/14925)  
+[14945 불장난: 골드4](https://www.acmicpc.net/problem/14945)  
 [15486 퇴사 2: 골드5](https://www.acmicpc.net/problem/15486)  
 [15645 내려가기 2: 실버1](https://www.acmicpc.net/problem/15645)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
