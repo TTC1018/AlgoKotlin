@@ -224,6 +224,7 @@
 <div markdown="1">
 
 [2313 보석 구매하기: 골드5](https://www.acmicpc.net/problem/2313)  
+[6884 소수 부분 수열: 실버2](https://www.acmicpc.net/problem/6884)  
 [7348 테이블 옮기기: 실버2](https://www.acmicpc.net/problem/7348)  
 [10025 게으른 백곰: 실버3](https://www.acmicpc.net/problem/10025)  
 [12841 정보대 등산: 실버2](https://www.acmicpc.net/problem/12841)  
