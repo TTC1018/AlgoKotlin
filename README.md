@@ -674,6 +674,7 @@
 [18114 블랙 프라이데이: 골드5](https://www.acmicpc.net/problem/18114)  
 [19637 IF문 좀 대신 써줘: 실버3](https://www.acmicpc.net/problem/19637)  
 [20495 수열과 헌팅: 실버1](https://www.acmicpc.net/problem/20495)  
+[27932 어깨동무: 실버2](https://www.acmicpc.net/problem/27932)  
 
 </div>
 </details>
