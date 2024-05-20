@@ -97,6 +97,7 @@
 [2371 파일 구별하기: 실버3](https://www.acmicpc.net/problem/2371)  
 [2573 빙산: 골드4](https://www.acmicpc.net/problem/2573)  
 [2638 치즈: 골드3](https://www.acmicpc.net/problem/2638)  
+[2811 상범이의 우울: 실버3](https://www.acmicpc.net/problem/2811)  
 [3961 터치스크린 키보드: 실버2](https://www.acmicpc.net/problem/3961)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
 [4881 자리수의 제곱: 실버4](https://www.acmicpc.net/problem/4881)  
