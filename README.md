@@ -170,6 +170,7 @@
 [14395 4연산: 골드5](https://www.acmicpc.net/problem/14395)  
 [14550 마리오 파티: 골드5](https://www.acmicpc.net/problem/14550)  
 [14940 쉬운 최단거리: 실버1](https://www.acmicpc.net/problem/14940)  
+[15558 점프 게임: 골드5](https://www.acmicpc.net/problem/15558)  
 [16509 장군: 골드5](https://www.acmicpc.net/problem/16509)  
 [16197 두 동전: 골드4](https://www.acmicpc.net/problem/16197)  
 [16397 탈출: 골드4](https://www.acmicpc.net/problem/16397)  
