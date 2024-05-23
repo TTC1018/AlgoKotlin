@@ -459,6 +459,7 @@
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
+[10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [16502 그녀를 찾아서: 실버3](https://www.acmicpc.net/problem/16502)  
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
