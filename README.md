@@ -48,6 +48,7 @@
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
 [11509 풍선 맞추기: 골드5](https://www.acmicpc.net/problem/11509)  
 [11918 정전: 골드4](https://www.acmicpc.net/problem/11918)  
+[12934 턴 게임: 골드5](https://www.acmicpc.net/problem/12934)  
 [12970 AB: 골드4](https://www.acmicpc.net/problem/12970)  
 [14247 나무 자르기: 실버2 ⚠️](https://www.acmicpc.net/problem/14247)  
 [15553 난로: 골드5](https://www.acmicpc.net/problem/15553)  
