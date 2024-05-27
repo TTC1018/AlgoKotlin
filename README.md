@@ -131,6 +131,7 @@
 
 [1012 유기농 배추: 실버2](https://www.acmicpc.net/problem/1012)  
 [1240 노드사이의 거리: 골드5](https://www.acmicpc.net/problem/1240)  
+[1245 농장 관리: 골드5](https://www.acmicpc.net/problem/1245)  
 [1261 알고스팟: 골드4](https://www.acmicpc.net/problem/1261)  
 [1325 효율적인 해킹: 실버1](https://www.acmicpc.net/problem/1325)  
 [1326 폴짝폴짝: 실버2](https://www.acmicpc.net/problem/1326)  
