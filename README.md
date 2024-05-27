@@ -121,6 +121,7 @@
 [22858 원상 복구 (small): 실버3](https://www.acmicpc.net/problem/22858)  
 [26597 이 사람 왜 이렇게 1122를 좋아함?: 실버2](https://www.acmicpc.net/problem/26597)  
 [30023 전구 상태 바꾸기: 골드5](https://www.acmicpc.net/problem/30023)  
+[31747 점호: 실버4](https://www.acmicpc.net/problem/31747)  
 
 </div>
 </details>
