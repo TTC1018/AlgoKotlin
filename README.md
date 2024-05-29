@@ -331,6 +331,7 @@
 [28325 호숫가의 개미굴: 골드5](https://www.acmicpc.net/problem/28325)  
 [28360 양동이 게임: 실버1](https://www.acmicpc.net/problem/28360)  
 [29704 벼락치기: 골드5](https://www.acmicpc.net/problem/29704)  
+[31670 특별한 마법 공격: 실버2](https://www.acmicpc.net/problem/31670)  
 
 </div>
 </details>
