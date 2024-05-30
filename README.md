@@ -230,6 +230,7 @@
 <summary>누적합</summary>
 <div markdown="1">
 
+[2015 수들의 합 4: 골드4](https://www.acmicpc.net/problem/2015)  
 [2313 보석 구매하기: 골드5](https://www.acmicpc.net/problem/2313)  
 [6884 소수 부분 수열: 실버2](https://www.acmicpc.net/problem/6884)  
 [7348 테이블 옮기기: 실버2](https://www.acmicpc.net/problem/7348)  
