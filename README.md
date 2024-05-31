@@ -372,6 +372,7 @@
 [14369 전화번호 수수께끼 (Small): 골드5](https://www.acmicpc.net/problem/14369)  
 [14725 개미굴: 골드3](https://www.acmicpc.net/problem/14725)  
 [23304 아카라카: 실버2](https://www.acmicpc.net/problem/23304)  
+[25328 문자열 집합 조합하기: 실버3](https://www.acmicpc.net/problem/25328)  
 [30090 백신 개발: 실버1](https://www.acmicpc.net/problem/30090)  
 [30446 회문수: 실버2](https://www.acmicpc.net/problem/30446)  
 
