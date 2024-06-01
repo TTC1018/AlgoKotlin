@@ -763,6 +763,7 @@
 [1238 파티: 골드3](https://www.acmicpc.net/problem/1238)  
 [1504 특정한 최단 경로: 골드4](https://www.acmicpc.net/problem/1504)  
 [1865 웜홀: 골드3](https://www.acmicpc.net/problem/1865)  
+[1976 여행 가자: 골드4](https://www.acmicpc.net/problem/1976)  
 [2660 회장뽑기: 골드5](https://www.acmicpc.net/problem/2660)  
 [4485 녹색 옷 입은 애가 젤다지?: 골드4](https://www.acmicpc.net/problem/4485)  
 [11265 끝나지 않는 파티: 골드5](https://www.acmicpc.net/problem/11265)  
