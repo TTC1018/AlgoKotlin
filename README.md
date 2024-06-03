@@ -479,6 +479,7 @@
 [21980 비슷한 번호판: 실버2](https://www.acmicpc.net/problem/21980)  
 [24516 잘 알려진 수열 구하기: 실버3](https://www.acmicpc.net/problem/24516)  
 [26090 완전한 수열: 실버2](https://www.acmicpc.net/problem/26090)  
+[27278 영내순환버스: 실버1](https://www.acmicpc.net/problem/27278)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
 [30405 박물관 견학: 골드5](https://www.acmicpc.net/problem/30405)  
 
