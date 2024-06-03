@@ -467,6 +467,7 @@
 [1951 활자: 실버3](https://www.acmicpc.net/problem/1951)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
+[2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
