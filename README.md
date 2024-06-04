@@ -69,6 +69,7 @@
 [23254 나는 기말고사형 인간이야: 골드5](https://www.acmicpc.net/problem/23254)  
 [23322 초콜릿 뺏어 먹기: 실버2](https://www.acmicpc.net/problem/23322)  
 [23559 밥: 골드5](https://www.acmicpc.net/problem/23559)  
+[23758 중앙값 제거: 실버1](https://www.acmicpc.net/problem/23758)  
 [24023 아기 홍윤: 골드5](https://www.acmicpc.net/problem/24023)  
 [24524 아름다운 문자열: 골드5](https://www.acmicpc.net/problem/24524)  
 [25045 비즈마켓: 실버3](https://www.acmicpc.net/problem/25045)  
