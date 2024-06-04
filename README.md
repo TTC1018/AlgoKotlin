@@ -469,6 +469,7 @@
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
+[6591 이항 쇼다운: 실버3](https://www.acmicpc.net/problem/6591)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
