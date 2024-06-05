@@ -72,6 +72,7 @@
 [23758 중앙값 제거: 실버1](https://www.acmicpc.net/problem/23758)  
 [24023 아기 홍윤: 골드5](https://www.acmicpc.net/problem/24023)  
 [24524 아름다운 문자열: 골드5](https://www.acmicpc.net/problem/24524)  
+[24938 키트 분배하기: 실버2](https://www.acmicpc.net/problem/24938)  
 [25045 비즈마켓: 실버3](https://www.acmicpc.net/problem/25045)  
 [25381 ABBC: 골드4](https://www.acmicpc.net/problem/25381)  
 [25632 소수 부르기 게임: 실버3](https://www.acmicpc.net/problem/25632)  
