@@ -31,6 +31,7 @@
 [1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
 [1900 레슬러: 실버2](https://www.acmicpc.net/problem/1900)  
 [1946 신입 사원: 실버1](https://www.acmicpc.net/problem/1946)  
+[2140 지뢰찾기: 골드4](https://www.acmicpc.net/problem/2140)  
 [2141 우체국: 골드4](https://www.acmicpc.net/problem/2141)  
 [2212 센서: 골드5](https://www.acmicpc.net/problem/2212)  
 [2232 지뢰: 실버2](https://www.acmicpc.net/problem/2232)  
