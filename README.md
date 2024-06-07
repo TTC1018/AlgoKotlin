@@ -475,6 +475,7 @@
 [6591 이항 쇼다운: 실버3](https://www.acmicpc.net/problem/6591)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
+[12993 이동3: 실버2](https://www.acmicpc.net/problem/12993)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [16502 그녀를 찾아서: 실버3](https://www.acmicpc.net/problem/16502)  
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
