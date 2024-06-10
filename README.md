@@ -301,6 +301,7 @@
 [11909 배열 탈출: 골드5](https://www.acmicpc.net/problem/11909)  
 [11985 오렌지 출하: 골드4](https://www.acmicpc.net/problem/11985)  
 [12852 1로 만들기 2: 실버1](https://www.acmicpc.net/problem/12852)  
+[13302 리조트: 골드4](https://www.acmicpc.net/problem/13302)  
 [13910 개업: 골드5](https://www.acmicpc.net/problem/13910)  
 [14231 박스 포장: 실버2](https://www.acmicpc.net/problem/14231)  
 [14585 사수빈탕: 실버1](https://www.acmicpc.net/problem/14585)  
