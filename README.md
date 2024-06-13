@@ -36,6 +36,7 @@
 [2212 센서: 골드5](https://www.acmicpc.net/problem/2212)  
 [2232 지뢰: 실버2](https://www.acmicpc.net/problem/2232)  
 [2258 정육점: 골드4](https://www.acmicpc.net/problem/2258)  
+[2262 토너먼트 만들기: 골드4](https://www.acmicpc.net/problem/2262)  
 [2374 같은 수 만들기: 골드4](https://www.acmicpc.net/problem/2374)  
 [2405 세 수, 두 M: 골드4](https://www.acmicpc.net/problem/2405)  
 [2697 다음수 구하기: 실버2](https://www.acmicpc.net/problem/2697)  
