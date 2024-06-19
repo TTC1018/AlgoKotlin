@@ -795,6 +795,7 @@
 [14938 서강그라운드: 골드4](https://www.acmicpc.net/problem/14938)  
 [16958 텔레포트: 골드4](https://www.acmicpc.net/problem/16958)  
 [21278 호석이 두 마리 치킨: 골드5](https://www.acmicpc.net/problem/21278)  
+[22116 창영이와 퇴근: 골드4](https://www.acmicpc.net/problem/22116)  
 
 </div>
 </details>
