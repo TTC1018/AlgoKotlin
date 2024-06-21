@@ -485,6 +485,7 @@
 [10407 2 타워: 실버3](https://www.acmicpc.net/problem/10407)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
 [12993 이동3: 실버2](https://www.acmicpc.net/problem/12993)  
+[14232 보석 도둑: 실버1](https://www.acmicpc.net/problem/14232)  
 [14607 피자 (Large): 실버3](https://www.acmicpc.net/problem/14607)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [16464 가주아: 실버2](https://www.acmicpc.net/problem/16464)  
