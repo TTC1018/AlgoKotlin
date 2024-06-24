@@ -68,6 +68,7 @@
 [20310 타노스: 실버3](https://www.acmicpc.net/problem/20310)  
 [20311 화학 실험: 골드5](https://www.acmicpc.net/problem/20311)  
 [20928 걷는 건 귀찮아: 골드4](https://www.acmicpc.net/problem/20928)  
+[21600 계단: 실버1](https://www.acmicpc.net/problem/21600)  
 [22981 휴먼 파이프라인: 골드5](https://www.acmicpc.net/problem/22981)  
 [23254 나는 기말고사형 인간이야: 골드5](https://www.acmicpc.net/problem/23254)  
 [23322 초콜릿 뺏어 먹기: 실버2](https://www.acmicpc.net/problem/23322)  
@@ -130,6 +131,7 @@
 [29714 브실이의 구슬 아이스크림: 실버2](https://www.acmicpc.net/problem/29714)  
 [30023 전구 상태 바꾸기: 골드5](https://www.acmicpc.net/problem/30023)  
 [31747 점호: 실버4](https://www.acmicpc.net/problem/31747)  
+[31869 선배님 밥 사주세요!: 실버3](https://www.acmicpc.net/problem/31869)  
 
 </div>
 </details>
@@ -486,6 +488,7 @@
 [10407 2 타워: 실버3](https://www.acmicpc.net/problem/10407)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
 [12993 이동3: 실버2](https://www.acmicpc.net/problem/12993)  
+[14232 보석 도둑: 실버1](https://www.acmicpc.net/problem/14232)  
 [14607 피자 (Large): 실버3](https://www.acmicpc.net/problem/14607)  
 [15319 동혁이의 생일선물: 골드5](https://www.acmicpc.net/problem/15319)  
 [16464 가주아: 실버2](https://www.acmicpc.net/problem/16464)  
