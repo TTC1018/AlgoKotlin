@@ -83,6 +83,7 @@
 [26648 물정수열: 실버1](https://www.acmicpc.net/problem/26648)  
 [27277 장기자랑: 실버1](https://www.acmicpc.net/problem/27277)  
 [27446 랩실에서 잘 자요: 실버3](https://www.acmicpc.net/problem/27446)  
+[27740 시프트 연산: 골드4](https://www.acmicpc.net/problem/27740)  
 [28015 영역 색칠: 실버2](https://www.acmicpc.net/problem/28015)  
 [28324 스케이트 연습: 실버4](https://www.acmicpc.net/problem/28324)  
 [30646 최대 합 순서쌍의 개수: 골드5](https://www.acmicpc.net/problem/30646)  
