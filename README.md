@@ -126,6 +126,7 @@
 [20056 마법사 상어와 파이어볼: 골드4](https://www.acmicpc.net/problem/20056)  
 [20165 인내의 도미노 장인 호석: 골드5](https://www.acmicpc.net/problem/20165)  
 [20207 달력: 골드5](https://www.acmicpc.net/problem/20207)  
+[21608 상어 초등학교: 골드5](https://www.acmicpc.net/problem/21608)  
 [22858 원상 복구 (small): 실버3](https://www.acmicpc.net/problem/22858)  
 [26597 이 사람 왜 이렇게 1122를 좋아함?: 실버2](https://www.acmicpc.net/problem/26597)  
 [29714 브실이의 구슬 아이스크림: 실버2](https://www.acmicpc.net/problem/29714)  
