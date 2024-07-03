@@ -478,6 +478,7 @@
 [1424 새 앨범: 골드5](https://www.acmicpc.net/problem/1424)  
 [1565 수학: 골드4](https://www.acmicpc.net/problem/1565)  
 [1614 영식이의 손가락: 실버3](https://www.acmicpc.net/problem/1614)  
+[1790 수 이어 쓰기 2: 골드5](https://www.acmicpc.net/problem/1790)  
 [1951 활자: 실버3](https://www.acmicpc.net/problem/1951)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
