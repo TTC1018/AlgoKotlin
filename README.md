@@ -394,6 +394,15 @@
 </details>
 
 <details>
+<summary>백트래킹</summary>
+<div markdown="1">
+
+[2661 좋은 수열: 골드4](https://www.acmicpc.net/problem/2661)  
+
+</div>
+</details>
+
+<details>
 <summary>비트마스킹</summary>
 <div markdown="1">
 
