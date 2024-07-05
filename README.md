@@ -509,6 +509,7 @@
 [18291 비요뜨의 징검다리 건너기: 골드5](https://www.acmicpc.net/problem/18291)  
 [21980 비슷한 번호판: 실버2](https://www.acmicpc.net/problem/21980)  
 [24516 잘 알려진 수열 구하기: 실버3](https://www.acmicpc.net/problem/24516)  
+[25180 썸 팰린드롬: 실버3](https://www.acmicpc.net/problem/25180)  
 [25562 차의 개수: 실버3](https://www.acmicpc.net/problem/25562)  
 [26090 완전한 수열: 실버2](https://www.acmicpc.net/problem/26090)  
 [27278 영내순환버스: 실버1](https://www.acmicpc.net/problem/27278)  
