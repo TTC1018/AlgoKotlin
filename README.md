@@ -62,6 +62,7 @@
 [16206 롤케이크: 실버1](https://www.acmicpc.net/problem/16206)  
 [16678 모독: 골드5](https://www.acmicpc.net/problem/16678)  
 [17262 팬덤이 넘쳐흘러: 실버4](https://www.acmicpc.net/problem/17262)  
+[17451 평행 우주: 실버3](https://www.acmicpc.net/problem/17451)  
 [17828 문자열 화폐: 골드5](https://www.acmicpc.net/problem/17828)  
 [19582 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여: 골드3](https://www.acmicpc.net/problem/19582)  
 [20300 서강근육맨: 실버3](https://www.acmicpc.net/problem/20300)  
@@ -313,6 +314,7 @@
 [13910 개업: 골드5](https://www.acmicpc.net/problem/13910)  
 [14231 박스 포장: 실버2](https://www.acmicpc.net/problem/14231)  
 [14585 사수빈탕: 실버1](https://www.acmicpc.net/problem/14585)  
+[14863 서울에서 경산까지: 골드4](https://www.acmicpc.net/problem/14863)  
 [14925 목장 건설하기: 골드4](https://www.acmicpc.net/problem/14925)  
 [14945 불장난: 골드4](https://www.acmicpc.net/problem/14945)  
 [15486 퇴사 2: 골드5](https://www.acmicpc.net/problem/15486)  
@@ -616,6 +618,7 @@
 [2992 크면서 작은 수: 실버3](https://www.acmicpc.net/problem/2992)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
 [3671 산업 스파이의 편지: 골드4](https://www.acmicpc.net/problem/3671)  
+[3684 어려운 문제: 실버3](https://www.acmicpc.net/problem/3684)  
 [3980 선발 명단: 골드5](https://www.acmicpc.net/problem/3980)  
 [6987 월드컵: 골드4](https://www.acmicpc.net/problem/6987)  
 [7696 반복하지 않는 수: 실버3](https://www.acmicpc.net/problem/7696)  
@@ -744,6 +747,7 @@
 <div markdown="1">
 
 [2107 포함하는 구간: 골드5](https://www.acmicpc.net/problem/2107)  
+[2236 칩 만들기: 실버3](https://www.acmicpc.net/problem/2236)  
 [2790 F7: 실버2](https://www.acmicpc.net/problem/2790)  
 [2910 빈도 정렬: 실버3](https://www.acmicpc.net/problem/2910)  
 [4159 알래스카: 실버3](https://www.acmicpc.net/problem/4159)  
@@ -826,6 +830,7 @@
 <div markdown="1">
 
 [3078 좋은 친구: 골드4](https://www.acmicpc.net/problem/3078)  
+[12186 Sort a scrambled itinerary (Small): 실버3](https://www.acmicpc.net/problem/12186)  
 [13417 카드 문자열: 실버3](https://www.acmicpc.net/problem/13417)  
 [14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
 [20956 아이스크림 도둑 지호: 골드4](https://www.acmicpc.net/problem/20956)  
