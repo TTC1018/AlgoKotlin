@@ -708,6 +708,7 @@
 <div markdown="1">
 
 [1477 휴게소 세우기: 골드4](https://www.acmicpc.net/problem/1477)  
+[1756 피자 굽기: 골드5](https://www.acmicpc.net/problem/1756)  
 [2110 공유기 설치: 골드4](https://www.acmicpc.net/problem/2110)  
 [2295 세 수의 합: 골드4](https://www.acmicpc.net/problem/2295)  
 [2343 기타 레슨: 실버1](https://www.acmicpc.net/problem/2343)  
