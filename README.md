@@ -499,6 +499,7 @@
 [1790 수 이어 쓰기 2: 골드5](https://www.acmicpc.net/problem/1790)  
 [1951 활자: 실버3](https://www.acmicpc.net/problem/1951)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
+[2048 Hello, 2048!](https://www.acmicpc.net/problem/2048)  
 [2312 수 복원하기: 실버3](https://www.acmicpc.net/problem/2312)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
