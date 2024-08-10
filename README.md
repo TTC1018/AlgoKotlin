@@ -215,6 +215,7 @@
 [24446 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)  
 [24447 알고리즘 수업 - 너비 우선 탐색 4](https://www.acmicpc.net/problem/24447)  
 [24463 미로: 골드4](https://www.acmicpc.net/problem/24463)  
+[24482 알고리즘 수업 - 깊이 우선 탐색 4](https://www.acmicpc.net/problem/24482)  
 [24483 알고리즘 수업 - 깊이 우선 탐색 5](https://www.acmicpc.net/problem/24483)  
 [25416 빠른 숫자 탐색: 실버2](https://www.acmicpc.net/problem/25416)  
 [25512 트리를 간단하게 색칠하는 최소 비용: 실버1](https://www.acmicpc.net/problem/25512)  
@@ -498,6 +499,7 @@
 [1790 수 이어 쓰기 2: 골드5](https://www.acmicpc.net/problem/1790)  
 [1951 활자: 실버3](https://www.acmicpc.net/problem/1951)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
+[2048 Hello, 2048!](https://www.acmicpc.net/problem/2048)  
 [2312 수 복원하기: 실버3](https://www.acmicpc.net/problem/2312)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
@@ -513,6 +515,7 @@
 [16464 가주아: 실버2](https://www.acmicpc.net/problem/16464)  
 [16502 그녀를 찾아서: 실버3](https://www.acmicpc.net/problem/16502)  
 [17087 숨바꼭질 6: 실버2](https://www.acmicpc.net/problem/17087)  
+[17253 삼삼한 수 2: 실버3](https://www.acmicpc.net/problem/17253)  
 [17425 약수의 합: 골드4](https://www.acmicpc.net/problem/17425)  
 [18291 비요뜨의 징검다리 건너기: 골드5](https://www.acmicpc.net/problem/18291)  
 [21980 비슷한 번호판: 실버2](https://www.acmicpc.net/problem/21980)  
@@ -578,6 +581,7 @@
 [26085 효구와 호규 (Easy): 실버1](https://www.acmicpc.net/problem/26085)  
 [27468 2배 또는 0.5배: 골드5](https://www.acmicpc.net/problem/27468)  
 [28359 수열의 가치: 골드5](https://www.acmicpc.net/problem/28359)  
+[30021 순열 선물하기: 실버2](https://www.acmicpc.net/problem/30021)  
 [31409 착신 전환 소동: 실버3](https://www.acmicpc.net/problem/31409)  
 
 </div>
