@@ -310,6 +310,7 @@
 [2533 사회망 서비스(SNS): 골드3](https://www.acmicpc.net/problem/2533)  
 [2629 양팔저울: 골드3](https://www.acmicpc.net/problem/2629)  
 [2705 팰린드롬 파티션: 실버1](https://www.acmicpc.net/problem/2705)  
+[2876 그래픽스 퀴즈: 실버3](https://www.acmicpc.net/problem/2876)  
 [3099 도트 매트릭스 프린터: 골드4](https://www.acmicpc.net/problem/3099)  
 [4095 최대 정사각형: 골드4](https://www.acmicpc.net/problem/4095)  
 [5546 파스타: 골드4](https://www.acmicpc.net/problem/5546)  
@@ -320,6 +321,7 @@
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [9764 서로 다른 자연수의 합: 골드5](https://www.acmicpc.net/problem/9764)  
 [10571 다이아몬드: 실버1](https://www.acmicpc.net/problem/10571)  
+[11568 민균이의 계략: 실버2](https://www.acmicpc.net/problem/11568)  
 [11909 배열 탈출: 골드5](https://www.acmicpc.net/problem/11909)  
 [11985 오렌지 출하: 골드4](https://www.acmicpc.net/problem/11985)  
 [12852 1로 만들기 2: 실버1](https://www.acmicpc.net/problem/12852)  
@@ -694,6 +696,7 @@
 [25585 86-에이티식스-1: 골드5](https://www.acmicpc.net/problem/25585)  
 [25602 캔 주기: 실버1](https://www.acmicpc.net/problem/25602)  
 [27967 고추장 괄호 문자열: 실버2](https://www.acmicpc.net/problem/27967)  
+[28447 마라탕 재료 고르기: 실버2](https://www.acmicpc.net/problem/28447)  
 [30237 합집합: 골드5](https://www.acmicpc.net/problem/30237)  
 
 </div>
